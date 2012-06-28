@@ -25,8 +25,7 @@ class NFSNAuth(AuthBase):
 	def __call__(self, request):
 		"""Generate a hash, and set the X-NFSN Header"""
 		body = ""
-		if (isinstance(request.data, list) 
-				or isinstance(request.data, dict)) and request.data:
+		if isinstance(request.data, list) and request.data:
 			body = urllib.urlencode(request.data)
 		elif request.data:
 			body = request.data
