@@ -1,0 +1,6 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =4
+let g:netrw_dirhist_1='/home/josh/code/checklister/src/Checklister/helpers'
+let g:netrw_dirhist_2='/'
+let g:netrw_dirhist_3='/home/josh/code/checklister/src/Checklister'
+let g:netrw_dirhist_4='/home/josh/code/checklister/src/Checklister/routes'
