@@ -1,0 +1,1 @@
+/home/josh/code/dotfiles/sen/nfsn_config.py

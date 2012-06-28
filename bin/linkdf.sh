@@ -7,8 +7,8 @@
 # the EXCLUDE variable contains a list of files and directories
 # that should not be linked
 
-EXCLUDE=".git bak"
-
+EXCLUDE=".git bak sen .gitignore"
+# the git folder, bak'd up files, sensitive files, .gitignore
 
 _BACKUP=1
 FILES=`find . -mindepth 1 -maxdepth 1 -print | cut -d'/' -f2-`
