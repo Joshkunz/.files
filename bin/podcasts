@@ -16,7 +16,13 @@ from pprint import pprint
 
 ## Configuration
 
+# All paths are relative to this one
+ROOT_DIR = "~/podcasts"
+
+# Where to keep the cached feeds
 FEED_STORE = "feeds"
+
+# Where to store downloaded episodes
 EPISODE_STORE = "episodes"
 
 ## Constants
@@ -24,6 +30,10 @@ EPISODE_STORE = "episodes"
 UTF8_WRITER = codecs.getwriter("utf-8")
 FEED_ENDINGS = ('atom', 'rss', 'xml')
 FEED_TIME = "%a, %d %b %Y %H:%M:%S"
+
+ROOT_DIR = os.path.expanduser(ROOT_DIR)
+ROOT_DIR = os.path.expandvars(ROOT_DIR)
+os.chdir(ROOT_DIR)
 
 ## Classes
 
