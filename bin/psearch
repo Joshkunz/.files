@@ -1,3 +1,0 @@
-#!/bin/bash
-
-echo $PATH | xargs -d":" ls -l 2>/dev/null | grep $@

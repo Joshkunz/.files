@@ -2,6 +2,22 @@
 set nocompatible
 syntax enable
 
+"read file changes
+set autoread
+
+" Let me abbanon buffers with changes
+set hidden
+
+" Column numbering and file percentages
+set ruler
+
+set backupdir=.backup,~/backup/vim,.
+
+" Maybe
+" set cursorline 
+" set cursorbind
+" set showmatch
+
 "Add Pathogen
 call pathogen#infect()
 
@@ -31,7 +47,9 @@ filetype plugin indent on
 
 augroup rcCmd
 	autocmd!
-	autocmd FileType python setl noexpandtab colorcolumn=80
+    autocmd FileType markdown setl spell
+    autocmd FileType tex setl spell
+	autocmd FileType python setl colorcolumn=80
 	" Python highlight over 84 char softlimit
 	autocmd BufWinEnter *.py let w:m2=matchadd('ErrorMsg', '\%>84v.\+', -1)
 augroup END

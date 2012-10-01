@@ -1,1 +1,0 @@
-../sen/nfsn_config.py
