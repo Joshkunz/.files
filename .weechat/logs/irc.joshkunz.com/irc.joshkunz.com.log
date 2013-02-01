@@ -1,0 +1,24 @@
+2012-11-19 19:52:42	--	irc: connecting to server irc.joshkunz.com/6667...
+2012-11-19 19:52:46	--	irc: connected to irc.joshkunz.com/6667 (50.17.176.32)
+2012-11-19 19:52:47	--	Welcome to the Internet Relay Network josh!~Joshkunz@65-130-114-101.slkc.qwest.net
+2012-11-19 19:52:47	--	Your host is irc.joshkunz.com, running version ngircd-15 (x86_64/pc/linux-gnu)
+2012-11-19 19:52:47	--	This server has been started Sat Oct 06 2012 at 05:44:07 (UTC)
+2012-11-19 19:52:47	--	irc.joshkunz.com ngircd-15 aios biIklmnoPstv
+2012-11-19 19:52:47	--	RFC2812 CASEMAPPING=ascii PREFIX=(ov)@+ CHANTYPES=#&+ CHANMODES=bI,k,l,imnPst CHANLIMIT=#&+:10 :are supported on this server
+2012-11-19 19:52:47	--	CHANNELLEN=50 NICKLEN=9 TOPICLEN=490 AWAYLEN=127 KICKLEN=400 PENALTY :are supported on this server
+2012-11-19 19:52:47	--	There are 1 users and 0 services on 1 servers
+2012-11-19 19:52:47	--	2 :channels formed
+2012-11-19 19:52:47	--	I have 1 users, 0 services and 0 servers
+2012-11-19 19:52:47	--	1 4 :Current local users: 1, Max: 4
+2012-11-19 19:52:47	--	1 4 :Current global users: 1, Max: 4
+2012-11-19 19:52:47	--	- irc.joshkunz.com message of the day
+2012-11-19 19:52:47	--	- **************************************************
+2012-11-19 19:52:47	--	- *                   Boom IRC                     *
+2012-11-19 19:52:47	--	- *    This is the very normal, and entirely       *
+2012-11-19 19:52:47	--	- *    useful(!) irc server I run off of my domain *
+2012-11-19 19:52:47	--	- *    Enjoy -- josh (http://www.joshkunz.com      *
+2012-11-19 19:52:47	--	- **************************************************
+2012-11-19 19:52:47	--	End of MOTD command
+2012-11-19 19:53:00	=!=	irc: "op" command can only be executed in a channel buffer
+2012-11-19 19:53:43	--	User mode [+o] by irc.joshkunz.com
+2012-11-19 19:53:43	--	You are now an IRC Operator

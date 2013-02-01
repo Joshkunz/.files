@@ -1,0 +1,464 @@
+2012-10-01 04:18:08	-->	joshkunz (~Joshkunz@75-169-179-157.slkc.qwest.net) has joined #python
+2012-10-01 04:18:08	--	Topic for #python is "NO LOL | NO PROJECT EULER | Don't paste, use http://bpaste.net/+python | 2.x or 3.x? http://bit.ly/py2vs3k | Tutorial: http://bit.ly/MCAhYx | New programmer? http://goo.gl/c170V | Find your nearest Python User Group: http://goo.gl/S1Zsq | #python-fr #python.de #python-es #python.tw #python.pl #python-br #python-nl #python-ir #python-fi #python.it"
+2012-10-01 04:18:08	--	Topic set by ssbr (~scorchsab@python/site-packages/ssbr) on Thu, 30 Aug 2012 01:48:52
+2012-10-01 04:18:08	--	Nicks #python: [[[zz]] [mad]Berry [SLB] \u03b5 __class__ __machine __main__ __name__ _aeris_ _Brian _di _fmm _ikke_ _jam _root_ _TB_ _unary _val_ _Vlad_ `mx abner aboudreault acg acrocity AcTiVaTe adepti37 ader10 Adran Adys_ afidegnum afox afx Aha2Y ahaerpfer aitrus ajvb akl akujin al14s Alan albel727 AlcariTheMad alephnull alexdoom AllStruck alvesjnr Amadiro AmandaC amaninacan ameoba ameoba_ amitksaha amoe anaconda andar Anders_J AndrewBC animal_style antihero aperson AppelonD araujo Archdude_ ArdRigh arietis arosen arrsim arvind_khadri asbjxrn asdf` ashfall_ asksol ASUChander Atlas atolani Avaris avelldiroll averell avoinea avu awahlig awpti Axsuul bal_ balaa ballingt bandini barika barometz BaronTwunty bbear bburhans beachandbytes beatpanic biberao BiDOrD_ BIGX333 binarydigit binjured bkraptor bla blast_hardcheese BlastHardcheese blenny BlindHunter Blu3 bmispelon bmn bob_f bob_p bonsaikitten booi BoomBox boos Bootvis bradleyayers brdma brewmaster brian broerd Brooke Bry8Star bryno bsdbandit bugfree bullicon Burgundy buttscicles c45y Caelum CalvinnHobbes Camberwell camerin CareBear\ carl- carljm cdsboy cedr chainsawbike chaos95 ChaozZBubi chimay chirpsalot chmuri chris_0076 ChrisOelmueller chrisq chronos chroto cibs cjoke classix cnf com4 comawhite commx companion confluency convict cooldude corndog04 crashmag Crayboff crazedpsyc CrazyGir crazymykl Criztian cRoepha cronosa cruxeter1us cryptic cuqa cwillu cwillu_at_work cYmen cyphase d3vic3 d4red3vil daemon daemonkeeper Dan39 dan_johnsin dancek danielsh danmackay danner dannib dardoleker DarkSector DarthGandalf darthlukan dash dashavoo DataBeaver dbrgn dbristow dc5ala dd72ddd dddh DeadSix27 Deathspawn deavid deepy Defektro delkin deltab Demosthenes deni derek_v dermoth|home dermoth|work deSilva Dettorer devhost dEX dextone dh dibb Digital_Lemon digitallogic dijonyummy diminoten dimka disposable djbrown dju dmrz donkdonk dpn` dpwrussell Drager drags drmegahertz dropdrive dubios due dukey dupa dvessel dw dxtr e0 echos ecthiender edong23 EdwardIII eevee ejnahc el-barto elmargol ElPollo em Emayu Embalmed eminor EnCuKou eniac EPG Ephexeve Epicurean epopt37 erg EricAhn erik- Error404NotFound errr escitalopram eshlox etank EToS Euthy EweR Excalibr exhuma explodes EyesIsMine ezakimak f0urtyfive f47h3r f_droopy_ faen faffi fakeroot FaKiE Falun fasta Favorit fayaz fcoury felipe fgomez finnrobi fire_ fireglow fisted fkm flashingpumpkin flebel flub folivora Free_Bullets Freeder froopy Frozenball Fuu fxdgear fxhp gabriel9|work gardenmwm gartenstuhl Gates gbaconnier gcbirzan gcbirzan_ gehmehgeh Gentilhomme Gentle GeorgeJ gerard0 githogori gkatsev glebihan_ glitt gnnr GoogleGuy GorillaPatch Gorroth gr3yh47 Gracenotes greg_f groupcat grubles gry Guest56933 gushie guyzmo gzl h0st1le Habbie hachque hackeron hansz HarryS Harzilein hashset Hasselsaurus hays_ heaven_ HedgeMage heedly heinrich5991 heroxbd hesco1 hgb hi117 Hien_ Holy_Cow HolyGoat hoot hop hurix hyperboreean i7c icee icycube ignasr iivvoo ikanobori Ikarus Imaginativeone impeldown infobob infogulch Innominate Internet13 iphelix ironfroggy Ishaq isomer ivan\ ivan` ivank ivenkys j0br j_king jackbean JackieXu jade-shan jamesn_ JanC jarr0dsz jart Jaykul[AFK] jayne Jayrays jb0t JC_SoCal jdiez jefferai jeffrubic jepler Jerub jesyspa jeverling Jezzz JFreegman jgelens Jikai jkbbwr jkyle JodaZ joe joedj john_f jokar jonez jordonias jorrit joshbaptiste joshfinnie joshkunz JPeterson jrgill jrib jroo jrwren jSanp jsec JSharpe jsjc JStoker jtrucks Jucato Juhaz Juze jvolkman jvv jwhisnant jxt KA kahtahs KaiSforza kaktus kamyl kanyl kanzure Katharsis katherinem13 kayatwork kayfox kbrosnan kcj kedoodek keeb kel39 kelvan kendriu kennethreitz kermit kesselhaus kevwilde kexwork kh31d4r Kiall kil0 Kiliko killown kinabalu Kingpin13 kini Kins kirin` KirkMcDonald kishkin kkimlabs Knio kode54 koobs krak3n` Kronuz krosis krushia kugter kuja kunwon1 Kwpolska l4mRh4X0r lahwran Laogeodritt Lartza Launch_Director lavish ldlework Learath2 Led_Zeppelin Leddy Left_Turn leo2007 leotr leptonix lesshaste liberum lightquake linduxed liori lonequid LoRez louai lrvick lucian luki- lvh m4rduk MaaaZ machisuji Madars magcius magnus_ magopian majoh maker malifae mandel marienz Markaci masquerade matrixise mattb matthiasgorgens mattikus mattmcc MatToufoutu maxmanders maxorator maZtah MB_wrk MChizhov Mcloven megamark16 megaTherion MercurialAlchemi merlin83 Merwin_ midnightmagic mikeshultz|away milleja46 Milossh Milos|Netbook MindDrive MissionCritical misua mito__ mitsuhiko mjolk mjr84 mmercer mnabil mns Mogget moldy mollerstrand Morrolan|Away Mortchek moruk MostAwesomeDude mpan mrenouf MRN MrZepeda mtx_init muraii murr4y muteki mwhooker mwilson Myk267 mythmon n9mtb nand` nanonyme NaPs naquad narfnarfnarf natim Natureshadow navik nchlssmith1 ndattani necavi nedbee neersighted NelleV nelson- nemo-yiannis Neptu neurodamage NickASloan nickoe nicolasph nigelb nightfalcon nikolah NimChimpsky NimeshNeema ninjak Nisstyre Nisstyre-laptop no-n nocturnal NomadJim NoNaMeNo NoobCoder nopf nosklo nyuszika7h oal obiwahn olasd Oldboy ole OOPMan Or1on Orbitrix ordsel orf_ ormaaj Orphis OSreX Out`Of`Control ovejorock Ox31c0 Oxyd pa Pagan PapaSmurf007 papna Paradox924X pdobrogost peeps peeps[lappy] Peng peper peterhil phantomcircuit Phazorx phenom phryk phschwartz|away phuzion Pici piffey Pilate pingveno Pixa PKKid planet pleed plundra plutoniix populvuh pozican pr3d4t0r pragma- Praise pratz preaction Preston4tw prg318 Programmer_ programmerq psil PuffTheMagic punee puppy purch pyn pythonchelle Qantourisc qr qu-bit qu1ckkkk quuxman qwerty1793 R2D2Warrior__ rabbitear RaceCondition racho rafaduran Ragun raid raydeo Raynes rcj_ redblue redeemed redrocket RedXIII reenignEesreveR regtools regulate remmy444 remote Remram rend resistivecorpse revdiablo ricky rik rizumu rob``` RobbieCrash Robinux robmorrissey ronny roto roxfan Rozza rpgsimmaster Rundll russfrank rvchangue rw RWJMurphy ryanakca rz sadmac SAHChandler saispo Salek samphippen samu Sanqui sawjig scharan schmilblick scott_w sdeng sebastianb SebastianFlyte sebbu SecretAgent SegFaultAX sejo sekanS Senix sente seoul_man seravitae Sergonium serj seth-- sethstorm sevenfourk SeySayux sezuan sh4wn Shadda SHAGGSTaRR shai ShishKabab sideffect Sieben Silex Silly silv3r_m00n sir_tyrion SirDeiu SirScott sirstan sitaktif sjaak_trekhaak sk4tsh skaufman skered skoskav sl33v3 Slide-O-Mix slowpoke SmokeyD smw Snakes Snizzel Soham soldicon SonicvanaJr sopvop SpaceDoG spaceone spade spditner sphenxes spo12 sprockee srcerer ssbr stardiviner stargaming Stealth Steve[cug] streety Strife Strogg Stry StuartL studybot_ submitform subvigilance sukkerfri sunu Supreme__ Svedrin sw0rdfish sykes Sylphid|home syrius sysop_fb t0h Tactical_ tan Taranis tazle TBCOOL tdfischer TeamMat tech2 tehKitten Tehnix tekacs teklol telling TenshiLyle teratoma teratorn tesuji thang thanmustoki The-Compiler the_lalelu the_metalgamer the_rat TheFuzzball themagician TheNumb therealfakemoot thiderman thief ThiefMaster thirsteh thorbjornDX tiaz tiger_eye TingPing tiphares tito tlvb TML TML-prv tntc toabctl ToApolytoXaos Tobarja tobixx todd_dsm toddpratt toddw toehio tomaw tomwardill tondo toothrot toresbe Torhal Torhal|work tos9 totte Trashlord tritoul Tron- Tropolis troyt trwired ts33kr TUX_ twoxyo txwikinger Typo udoprog unnamedwill unreal unreal-dude Uriziel urlgrabber v0lksman vamar VaNNi varrg veloutin Vertel Vgr|offline Viiru Villadelfia Vinky violator virhilo vladan vladikoff VnC_ voltagex VooDooNOFX_ Vye w0ng wachpwnski waer-away WanderingGlitch wapiflapi WaqarAzeem wardi wchun wd40s Weems whee wilblack Wild_Cat Will| wmw14 Wu wu_lmao Wulf Xaseron Xiol xiphiasx_ xnavor xorspark xtal xuu xy yac yacin yano yeltzooo Yhg1s ymas zamba zendeavor zeroz zhurai zidoh zjo zooz zoroaster ztane |DM|]
+2012-10-01 04:18:08	--	Channel #python: 952 nicks (0 ops, 0 halfops, 0 voices, 952 normals)
+2012-10-01 04:18:09	--	Mode #python [+CLcnrtf #python-unregistered]
+2012-10-01 04:18:09	--	Channel created on Sat, 25 Nov 2006 23:42:41
+2012-10-01 04:18:12	<--	studybot_ (~studybot_@ugate.dwango.co.jp) has quit (Quit: Leaving...)
+2012-10-01 04:18:17	natim	package.A, package.B, ...
+2012-10-01 04:18:20	Yhg1s	natim: you have to realize that Python *does not merge packages*. It's setuptools that does. As I said, it does crazy things to make these cases sometimes work, but it doesn't do a particularly good job.
+2012-10-01 04:18:34	Yhg1s	natim: but you're looking for pkg.__path__.
+2012-10-01 04:19:26	<--	Vinky (~vinky@h16n2fls304o1035.telia.com) has quit (Quit: Leaving)
+2012-10-01 04:20:19	<--	Vertel (~Vertel@CPE-124-186-86-140.lns9.woo.bigpond.net.au) has quit (Read error: Connection reset by peer)
+2012-10-01 04:20:30	-->	fra79Wii (~fra79Wii@cbs212.cbs.dtu.dk) has joined #python
+2012-10-01 04:20:50	natim	I didn't know setuptools was launched on from package.name import foobar
+2012-10-01 04:20:56	-->	fdi11inger (~fdi11inge@166.137.85.51) has joined #python
+2012-10-01 04:21:01	<--	plutoniix (~plutoniix@ppp-58-8-67-209.revip2.asianet.co.th) has quit (Ping timeout: 246 seconds)
+2012-10-01 04:21:29	--	Adys_ is now known as Adys
+2012-10-01 04:21:55	-->	FusionX (lol@unaffiliated/fusionx) has joined #python
+2012-10-01 04:21:56	natim	But pkg_ressources is defined in distribute too
+2012-10-01 04:22:00	-->	VivekVC (~vivekvc@gnu-india/admin/lopsa.member.vivek) has joined #python
+2012-10-01 04:22:39	<--	gerard0 (~gerardo@envy.gerardo.cc) has quit (Ping timeout: 272 seconds)
+2012-10-01 04:22:45	<--	fra79Wii (~fra79Wii@cbs212.cbs.dtu.dk) has left #python
+2012-10-01 04:23:40	natim	So I should use something like
+2012-10-01 04:23:48	-->	z0ran (~zoran@79.175.104.26) has joined #python
+2012-10-01 04:24:19	<--	afx (afx@78.130.171.68) has quit (Read error: Connection reset by peer)
+2012-10-01 04:24:22	natim	for path in sys.path: paths.append(imp.find_module('package', path)[1])
+2012-10-01 04:25:44	-->	fra79Wii (~fra79Wii@cbs212.cbs.dtu.dk) has joined #python
+2012-10-01 04:25:45	Yhg1s	natim: distribute is setuptools, yes.
+2012-10-01 04:26:00	natim	I am lost in this packaging thing :s
+2012-10-01 04:26:16	Yhg1s	natim: and it isn't launched "for 'from package.name import foobar'", it hooks into imports by mucking with .pth files, import hooks and the __path__ of packages you import.
+2012-10-01 04:26:39	Yhg1s	natim: perhaps you should stop trying to explain how your'e trying to solve your problem, and explain what your actual problem is.
+2012-10-01 04:26:40	<--	fra79Wii (~fra79Wii@cbs212.cbs.dtu.dk) has left #python
+2012-10-01 04:28:51	natim	my actual problem is https://code.djangoproject.com/ticket/19048#comment:1
+2012-10-01 04:29:37	-->	afx (afx@78.130.171.68) has joined #python
+2012-10-01 04:30:12	<--	fisted (~fisted@unaffiliated/fisted) has quit (Quit: l8er fgts)
+2012-10-01 04:30:55	Yhg1s	ok, so you should realize you're not using the "Python namespace package functionality". You're using the *setuptools* namespace functionality. Lots of things won't work right with it.
+2012-10-01 04:31:09	Yhg1s	I would recommend not trying to use its namespace functionality with things that break when using it.
+2012-10-01 04:31:46	natim	And what about this : http://www.python.org/dev/peps/pep-0420/
+2012-10-01 04:31:53	-->	triad (~triad@unaffiliated/triad) has joined #python
+2012-10-01 04:31:57	Yhg1s	that's what I meant when I said 'not yet'.
+2012-10-01 04:32:10	Yhg1s	(note the version tag.)
+2012-10-01 04:32:31	-->	anro (86db6792@gateway/web/freenode/ip.134.219.103.146) has joined #python
+2012-10-01 04:32:39	<--	ts33kr (~ts33kr@44-227-201-46.ip.ukrtel.net) has quit (Quit: Computer has gone to sleep.)
+2012-10-01 04:32:41	anro	hi, what is the purpose of a semicolon in python
+2012-10-01 04:32:49	Yhg1s	anro: separating small statements.
+2012-10-01 04:32:52	-->	farciarz84 (~farciarz@unaffiliated/farciarz84) has joined #python
+2012-10-01 04:33:08	anro	Yhg1s: is it necessary, what do you mean by small statements
+2012-10-01 04:33:14	farciarz84	would one be so kind to send my old python magazine pdfs?
+2012-10-01 04:33:30	Yhg1s	anro: it's the name of a particular syntactic construct in Python's formal grammar.
+2012-10-01 04:33:38	Yhg1s	anro: semicolons are not necessary, newlines will always do instead.
+2012-10-01 04:34:13	natim	Yhg1s, ok Python 3.3 release was last week
+2012-10-01 04:34:17	anro	Yhg1s: cool thanks, is that true of 2x as well as 3x
+2012-10-01 04:34:54	Yhg1s	anro: yes.
+2012-10-01 04:35:00	anro	Yhg1s: excellent
+2012-10-01 04:36:05	<--	Error404NotFound (~Error404N@unaffiliated/error404notfound) has quit (Ping timeout: 248 seconds)
+2012-10-01 04:37:38	<--	FusionX (lol@unaffiliated/fusionx) has quit (Ping timeout: 245 seconds)
+2012-10-01 04:37:38	<--	hoot (~hoot@37.76.137.14) has quit (Ping timeout: 245 seconds)
+2012-10-01 04:38:06	-->	FusionX (lol@unaffiliated/fusionx) has joined #python
+2012-10-01 04:39:18	<--	jonez (~jam@unaffiliated/jonez) has quit (Ping timeout: 245 seconds)
+2012-10-01 04:40:56	-->	Abhijit (~Abhijit@unaffiliated/abhijit) has joined #python
+2012-10-01 04:41:32	Abhijit	hi
+2012-10-01 04:41:52	Abhijit	i get error name db is not defined. i imported pymongo and flask
+2012-10-01 04:41:54	Abhijit	help please
+2012-10-01 04:42:08	Yhg1s	Abhijit: did you define the name 'db'?
+2012-10-01 04:42:29	<--	kcj (~casey@unaffiliated/kcj) has quit (Ping timeout: 248 seconds)
+2012-10-01 04:42:36	Abhijit	Yhg1s, i am following this tutorial and they have directly used the name db http://api.mongodb.org/python/current/tutorial.html
+2012-10-01 04:42:42	-->	kikulli (~Glis@92.82.78.248) has joined #python
+2012-10-01 04:42:47	-->	gbel (~gbel@CPE3c0754582d76-CM0026f32bc9d5.cpe.net.cable.rogers.com) has joined #python
+2012-10-01 04:42:50	Abhijit	Yhg1s, oh sorry my fault now i noticed!
+2012-10-01 04:43:03	<--	heaven_ (~jayant@115.248.24.18) has quit (Ping timeout: 245 seconds)
+2012-10-01 04:43:06	<--	shai (~Shai@l192-117-110-233.cable.actcom.net.il) has quit (Read error: Connection reset by peer)
+2012-10-01 04:43:26	<--	sk4tsh (~sk4tsh@p5DE83B3D.dip.t-dialin.net) has quit (Ping timeout: 246 seconds)
+2012-10-01 04:43:33	<--	beachandbytes (~beachandb@71.22.53.211) has quit (Ping timeout: 248 seconds)
+2012-10-01 04:45:07	-->	esc24 (~esc24@193.61.104.66) has joined #python
+2012-10-01 04:45:11	-->	xispirito (~xispirito@unaffiliated/doutor) has joined #python
+2012-10-01 04:45:46	-->	hoot (~hoot@178.46.201.186) has joined #python
+2012-10-01 04:47:54	-->	Error404NotFound (~Error404N@unaffiliated/error404notfound) has joined #python
+2012-10-01 04:48:08	<--	Senix (~Senix@unaffiliated/look) has quit (Read error: Connection reset by peer)
+2012-10-01 04:48:46	<--	Imaginativeone (~Imaginati@pool-173-66-105-182.washdc.fios.verizon.net) has quit (Quit: Imaginativeone)
+2012-10-01 04:48:55	<--	FusionX (lol@unaffiliated/fusionx) has quit (Ping timeout: 240 seconds)
+2012-10-01 04:49:10	<--	fdi11inger (~fdi11inge@166.137.85.51) has quit (Remote host closed the connection)
+2012-10-01 04:51:34	-->	Imaginativeone (~Imaginati@pool-173-66-105-182.washdc.fios.verizon.net) has joined #python
+2012-10-01 04:51:35	-->	jonez (~jam@unaffiliated/jonez) has joined #python
+2012-10-01 04:51:42	-->	qos (~qos@221.223.94.113) has joined #python
+2012-10-01 04:52:19	-->	ben_nicoll (~ben_nicol@d110-32-152-162.sun800.vic.optusnet.com.au) has joined #python
+2012-10-01 04:52:49	--	planet is now known as theplanet
+2012-10-01 04:53:24	-->	ncode (~ncode@unaffiliated/ncode) has joined #python
+2012-10-01 04:54:14	<--	joshfinnie (~joshfinni@c-69-243-26-215.hsd1.md.comcast.net) has quit (Read error: Connection reset by peer)
+2012-10-01 04:54:36	-->	FusionX (lol@unaffiliated/fusionx) has joined #python
+2012-10-01 04:56:48	<--	gbel (~gbel@CPE3c0754582d76-CM0026f32bc9d5.cpe.net.cable.rogers.com) has quit (Ping timeout: 245 seconds)
+2012-10-01 04:57:45	<--	teklol (~teK@cpe-98-148-212-207.socal.res.rr.com) has quit (Ping timeout: 260 seconds)
+2012-10-01 04:57:47	-->	nedbat (~nedbat@python/psf/nedbat) has joined #python
+2012-10-01 04:58:07	<--	Jayrays (~Jayrays@unaffiliated/jayrays) has quit (Ping timeout: 246 seconds)
+2012-10-01 04:58:25	-->	inad922 (~inad922@ec2-176-34-72-4.eu-west-1.compute.amazonaws.com) has joined #python
+2012-10-01 04:58:29	inad922	hey
+2012-10-01 04:58:56	inad922	Is there a python library with which I can transform an xml schema and a dictionary into an xml file defined by the schema?
+2012-10-01 04:59:05	Abhijit	Yhg1s, i followed that tut and created this function. each line separately works fine here in my computer. but when i upload the same function to openshift server i get internal server error http://paste.roguecoders.com/p/60aa2826c3c0c98051b4b411a99ac223.txt
+2012-10-01 04:59:08	Abhijit	help please
+2012-10-01 05:00:01	<--	anro (86db6792@gateway/web/freenode/ip.134.219.103.146) has quit (Ping timeout: 245 seconds)
+2012-10-01 05:00:05	Yhg1s	Abhijit: well, that snippet is missing a lot of code. Import statements, at the very least. Something that defines app.route. Something that routes the request based on that decorator, too.
+2012-10-01 05:00:09	-->	svetlyak40wt (~svetlyak4@2a02:6b8:0:101:9148:cb2e:4834:a5b9) has joined #python
+2012-10-01 05:01:07	natim	Yhg1s, https://code.djangoproject.com/attachment/ticket/19048/django_core_management_find_management_module.patch
+2012-10-01 05:02:57	<--	ncode (~ncode@unaffiliated/ncode) has quit (Quit: Computer has gone to sleep.)
+2012-10-01 05:03:23	-->	mcsontos (mcsontos@nat/redhat/x-nvdboqxumpjiimxm) has joined #python
+2012-10-01 05:03:34	Abhijit	Yhg1s, all that is defined above that code in the file. i was just telling you about the actual function i hvae imported everything
+2012-10-01 05:04:08	Yhg1s	Abhijit: I suggest running your actual code locally (and not running each line separately).
+2012-10-01 05:04:10	-->	jokoon (~jokoon@2a01:e35:398b:5d60:d109:bee3:7c40:c568) has joined #python
+2012-10-01 05:04:12	<--	FusionX (lol@unaffiliated/fusionx) has quit (Ping timeout: 245 seconds)
+2012-10-01 05:04:20	Abhijit	Yhg1s, ok will try it
+2012-10-01 05:04:28	<--	mwhooker (~mwhooker@50.23.111.66-static.reverse.softlayer.com) has quit (Quit: Computer has gone to sleep.)
+2012-10-01 05:06:25	<--	nelson- (~user@a89-152-185-90.cpe.netcabo.pt) has quit (Quit: ERC Version 5.3 (IRC client for Emacs))
+2012-10-01 05:07:13	<--	jSanp (~Thunderbi@fwcirb.irisnet.be) has quit (Remote host closed the connection)
+2012-10-01 05:07:21	-->	jSanp (~Thunderbi@fwcirb.irisnet.be) has joined #python
+2012-10-01 05:07:21	<--	jSanp (~Thunderbi@fwcirb.irisnet.be) has quit (Remote host closed the connection)
+2012-10-01 05:07:33	-->	jSanp (~Thunderbi@fwcirb.irisnet.be) has joined #python
+2012-10-01 05:08:38	eniac	Avaris: I'm confused by this all statement, if the first element, x(), is False then the all method will return False without executing the second statement. According to the example code at: http://docs.python.org/library/functions.html
+2012-10-01 05:09:12	-->	raj (~raj@unaffiliated/cypha) has joined #python
+2012-10-01 05:09:25	<--	eminor (~eminor@p548CE96C.dip.t-dialin.net) has quit (Quit: eminor)
+2012-10-01 05:09:29	-->	InfinityL (~nak123@14.99.94.145) has joined #python
+2012-10-01 05:09:45	Yhg1s	eniac: all((x(), y()) calls x, calls y, builds a tuple of the result and *then* calls all() on it.
+2012-10-01 05:10:08	-->	ts33kr (~ts33kr@44-227-201-46.ip.ukrtel.net) has joined #python
+2012-10-01 05:10:20	-->	gerard0 (~gerardo@envy.gerardo.cc) has joined #python
+2012-10-01 05:10:48	eniac	Yhg1s: ic, thank you!
+2012-10-01 05:11:10	-->	F1skr (~F1skr@4205ds8-fb.0.fullrate.dk) has joined #python
+2012-10-01 05:11:29	<--	jade-shan (~morgan@116.232.216.80) has quit (Quit: Leaving.)
+2012-10-01 05:11:36	InfinityL	Just back from PyCon India and it was amazing :))
+2012-10-01 05:11:50	<--	svetlyak40wt (~svetlyak4@2a02:6b8:0:101:9148:cb2e:4834:a5b9) has quit (Read error: Connection reset by peer)
+2012-10-01 05:12:26	EdwardIII	hey
+2012-10-01 05:12:53	<--	silv3r_m00n (~enlighten@117.194.244.41) has left #python
+2012-10-01 05:12:57	EdwardIII	i want to insert some html before the closing </head> tag on a bunch of HTML files. checking out the docs for BeautifulSoup but not entirely sure it's the right tool?
+2012-10-01 05:13:28	<--	tech2 (~tech2@5e0fcacf.bb.sky.com) has quit (Ping timeout: 245 seconds)
+2012-10-01 05:13:37	xispirito	question: i learning Python and in doubt, http://dpaste.com/808420/, 1 or 2?
+2012-10-01 05:13:43	afidegnum	lvh: u there?
+2012-10-01 05:13:55	esc24	I'm currently sitting in a python core sprint at PyConUK.
+2012-10-01 05:14:11	EdwardIII	awesome
+2012-10-01 05:14:17	EdwardIII	i wanted to come down but couldn't make it this time
+2012-10-01 05:14:49	-->	trssnd (~Adium@122.164.42.163) has joined #python
+2012-10-01 05:15:51	esc24	Next year PyConUK is scheduled for Sep 20th. This year was great. Van Lindberg spoke, and lightning man was brilliant.
+2012-10-01 05:15:58	-->	elyob (~chatzilla@lmfm2.gotadsl.co.uk) has joined #python
+2012-10-01 05:16:39	<--	esc24 (~esc24@193.61.104.66) has quit (Quit: Leaving)
+2012-10-01 05:18:15	InfinityL	esc24 Edward I am sure PyconUK is awesome...wish I could come over once
+2012-10-01 05:18:27	-->	Lord_DeathMatch (Lord_Death@CPE-60-228-196-13.lns7.woo.bigpond.net.au) has joined #python
+2012-10-01 05:18:33	InfinityL	Pycon India exceeded my expectations...so I had a great time :D
+2012-10-01 05:18:52	-->	TheSheep (~sheep@moinmoin/developer/radomir) has joined #python
+2012-10-01 05:18:53	<--	nickoe (~nickoe@h196.natout.aau.dk) has quit (Ping timeout: 245 seconds)
+2012-10-01 05:18:59	<--	rend (~rend@unaffiliated/rend) has quit (Ping timeout: 246 seconds)
+2012-10-01 05:19:29	-->	heaven_ (~jayant@115.248.24.18) has joined #python
+2012-10-01 05:19:35	<--	Lord_DeathMatch (Lord_Death@CPE-60-228-196-13.lns7.woo.bigpond.net.au) has quit (Client Quit)
+2012-10-01 05:21:36	-->	amogorkon (~quassel@piratenpartei/bw/amogorkon) has joined #python
+2012-10-01 05:22:06	StuartL	xispirito: Why are they even separate classes?
+2012-10-01 05:22:36	<--	jorrit (~jorrit@crystalspace3d.org) has quit (Quit: Lost terminal)
+2012-10-01 05:22:41	xispirito	StuartL: because i have maded all in wrong way
+2012-10-01 05:22:50	<--	chimay (~chimay@unaffiliated/chimay) has quit (Quit: WeeChat 0.3.9-rc1)
+2012-10-01 05:23:10	EdwardIII	ah, beautifulsoup is exactly what i want
+2012-10-01 05:23:27	xispirito	now i trying to do it more sane http://dpaste.com/808425/
+2012-10-01 05:23:36	-->	KevinSjoberg (~KevinSjob@193.12.19.205) has joined #python
+2012-10-01 05:24:05	<--	WaqarAzeem (~waqarazee@125.209.101.206) has quit (Read error: Connection reset by peer)
+2012-10-01 05:24:32	StuartL	What I meant is "Why do you even need class Input_Filtered and class Input_Free"?
+2012-10-01 05:24:39	-->	gclawes (~gclawes@pool-173-61-122-224.cmdnnj.fios.verizon.net) has joined #python
+2012-10-01 05:24:48	StuartL	Why not collapse all the functionality into a 'table' class which does everything?
+2012-10-01 05:24:49	-->	rotev (~smuxi@bzq-79-181-172-5.red.bezeqint.net) has joined #python
+2012-10-01 05:25:24	xispirito	thats why i trying to do in Prototype 2 =D
+2012-10-01 05:25:28	<--	RaceCondition (~erik@82.131.60.205.cable.starman.ee) has quit (Quit: RaceCondition)
+2012-10-01 05:25:52	Yhg1s	xispirito: defining a class in another class is rarely useful.
+2012-10-01 05:25:56	<--	samphippen (~textual@host86-189-0-207.range86-189.btcentralplus.com) has quit (Quit: Computer has gone to sleep.)
+2012-10-01 05:26:00	Yhg1s	and I'm not even sure what you're trying to do with that.
+2012-10-01 05:26:23	 *	StuartL agrees with Yhg1s.
+2012-10-01 05:26:45	xispirito	so, these way is the best? http://dpaste.com/808427/
+2012-10-01 05:26:54	xispirito	the first one, Prototype 2
+2012-10-01 05:27:03	Yhg1s	xispirito: no.
+2012-10-01 05:27:11	Yhg1s	xispirito: it's still defining a class in another class. It doesn't make much sense.
+2012-10-01 05:27:17	StuartL	Ignoring line 25 onwards, it's an improvement.
+2012-10-01 05:27:17	Yhg1s	What are you actually trying to *do*?
+2012-10-01 05:27:18	lvh	afidegnum: It's generally a good idea to ask the channel instaed of me personally :)
+2012-10-01 05:27:24	xispirito	on the last paste, no
+2012-10-01 05:27:50	Yhg1s	(also, calling subprocess.check_output() when you define the class doesn't sound like a smart thing.)
+2012-10-01 05:28:06	StuartL	Good point, I hadn't even spotted that...
+2012-10-01 05:28:07	Yhg1s	Did you mean to define a function instead?
+2012-10-01 05:28:48	farciarz84	xispirito: http://nilvec.com/python-iptables/
+2012-10-01 05:29:17	-->	piggybox (~piggybox@c-24-4-4-241.hsd1.ca.comcast.net) has joined #python
+2012-10-01 05:29:17	xispirito	lol
+2012-10-01 05:29:31	xispirito	wow, sorry
+2012-10-01 05:29:40	afidegnum	ok, my apologies
+2012-10-01 05:29:42	-->	nlc (~c@unaffiliated/nlc) has joined #python
+2012-10-01 05:30:00	-->	WaqarAzeem (~waqarazee@125.209.101.206) has joined #python
+2012-10-01 05:30:46	-->	mwhooker (~mwhooker@50.23.111.66-static.reverse.softlayer.com) has joined #python
+2012-10-01 05:30:48	afidegnum	lvh: in fact the reason why I am trying to talk to you is, while looking at flask, I am still attracted to django...  ;P
+2012-10-01 05:30:59	-->	chimay (~chimay@unaffiliated/chimay) has joined #python
+2012-10-01 05:31:00	Yhg1s	afidegnum: why does that require talking to lvh?
+2012-10-01 05:31:42	farciarz84	Yhg1s: he is an expert ;)
+2012-10-01 05:31:42	<--	[[zz]] (~q@node-1139.pool-180-180.dynamic.totbb.net) has quit (Ping timeout: 245 seconds)
+2012-10-01 05:31:55	Yhg1s	I'm not sure how that's relevant.
+2012-10-01 05:32:54	<--	trssnd (~Adium@122.164.42.163) has left #python
+2012-10-01 05:33:09	-->	Naeblis (~Naeblis@unaffiliated/naeblis) has joined #python
+2012-10-01 05:33:15	-->	jrickman (~jrickman@unaffiliated/jrickman) has joined #python
+2012-10-01 05:33:16	lvh	I am an expert on neither subject, and as Yhg1s points out that doesn't mean you have to talk to me (if you talk to the channel I can still pitch in)
+2012-10-01 05:33:31	lvh	Django is also a good choice for many projects. Which is superior depends on what you want to acchieve.
+2012-10-01 05:33:45	lvh	Based on what you have told me, my advice is to go with Flask, particularly given your current lack of Python experience.
+2012-10-01 05:34:17	-->	joshfinnie (~joshfinni@c-69-243-26-215.hsd1.md.comcast.net) has joined #python
+2012-10-01 05:34:30	<--	Demosthenes (~demo@206.180.155.43.adsl.hal-pc.org) has quit (Ping timeout: 244 seconds)
+2012-10-01 05:34:36	Naeblis	I want to get the population count of a redis bitset in my python app. Right now, I'm simply looping over the bitset and checking individual bits. Is there a faster way?
+2012-10-01 05:34:57	NelleV	I don't see why flask would be better with a lack of python experience
+2012-10-01 05:35:36	NelleV	django mostly targets people like afidegnum which have a php background, and would like to move to python
+2012-10-01 05:35:39	<--	InfinityL (~nak123@14.99.94.145) has quit (Ping timeout: 260 seconds)
+2012-10-01 05:36:10	-->	Wharncliffe (~glen@unaffiliated/ridout) has joined #python
+2012-10-01 05:36:41	-->	Demosthenes (~demo@206.180.155.43.adsl.hal-pc.org) has joined #python
+2012-10-01 05:36:50	lvh	NelleV: There are other reasons why I recommended Flask based on what he told me in a previous conversation, though.
+2012-10-01 05:37:01	lvh	but, again, sure: Django is not a wrong choice
+2012-10-01 05:37:30	gabriel9|work	django is great if you come from PHP
+2012-10-01 05:38:17	<--	fayaz (~quassel@111.92.110.232) has quit (Ping timeout: 255 seconds)
+2012-10-01 05:38:21	kikulli	How do I make pycharm fullscreen?
+2012-10-01 05:38:28	-->	Cromulent (~Cromulent@cpc4-reig5-2-0-cust637.6-3.cable.virginmedia.com) has joined #python
+2012-10-01 05:38:39	-->	kcunning (~kcunning@pool-72-83-52-176.washdc.fios.verizon.net) has joined #python
+2012-10-01 05:38:42	racho	the choice of a particular web framework in python really depends on  the problem (domain/size/should it 'scale' in the future)
+2012-10-01 05:39:10	Yhg1s	It really depends on personal preference, more than the problem.
+2012-10-01 05:39:47	kcunning	I don't know. I've seen people driven to madness, trying to make a framework do something it wasn't optimized for.
+2012-10-01 05:39:47	-->	arkiver (~err@122.169.50.26) has joined #python
+2012-10-01 05:40:02	-->	FusionX (lol@unaffiliated/fusionx) has joined #python
+2012-10-01 05:40:10	lvh	I agree with Yhg1s at least in so far that the issues that afidegnum described to me were mostly orthogonal to the choice of frameworks
+2012-10-01 05:40:34	Yhg1s	kcunning: I'm not sure how optimization is involved. Are you talking about making something possible, or making something efficient?
+2012-10-01 05:40:59	TheSheep	making something easy :)
+2012-10-01 05:41:00	nedbat	Naeblis: what data type is your bitset exactly?
+2012-10-01 05:41:31	kcunning	Yhg1s: I mean using a framework where its strengths are closely aligned to your requirements, and it's weaknesses aren't all that important to you.
+2012-10-01 05:41:36	-->	svetlyak40wt (~svetlyak4@2a02:6b8:0:101:9148:cb2e:4834:a5b9) has joined #python
+2012-10-01 05:41:41	racho	TheSheep, i would making something that works without the need to pull of your hair
+2012-10-01 05:41:55	Yhg1s	kcunning: That's describing more how you solve a problem, not what problem you solve. So it's back to personal preference again.
+2012-10-01 05:41:57	TheSheep	racho: "works" is a loaded term
+2012-10-01 05:42:19	<--	svetlyak40wt (~svetlyak4@2a02:6b8:0:101:9148:cb2e:4834:a5b9) has quit (Client Quit)
+2012-10-01 05:42:21	Naeblis	nedbat, I guess it's represented as a string. I use redis' setbit and getbit on it.
+2012-10-01 05:42:36	nedbat	Naeblis: each byte in the string is 8 bits?
+2012-10-01 05:42:39	Naeblis	yes
+2012-10-01 05:42:42	-->	svetlyak40wt (~svetlyak4@dhcp175-118-red3.yandex.net) has joined #python
+2012-10-01 05:42:43	<--	KevinSjoberg (~KevinSjob@193.12.19.205) has quit (Quit: Computer has gone to sleep.)
+2012-10-01 05:42:53	-->	larissa (~larissa@187.114.163.181) has joined #python
+2012-10-01 05:43:07	afidegnum	ok, kikulli which version of pycharm are you using ?
+2012-10-01 05:43:10	-->	nickoe (~nickoe@h196.natout.aau.dk) has joined #python
+2012-10-01 05:43:20	Naeblis	right now, I'm using getbit to get an individual bit from redis and check == 1. Seems inefficient.
+2012-10-01 05:43:21	<--	svetlyak40wt (~svetlyak4@dhcp175-118-red3.yandex.net) has quit (Client Quit)
+2012-10-01 05:43:38	kcunning	I've seen people use frameworks (and hell, whole languages) where the weaknesses are in the worst possible place for what they need to do. For example, using a framework that doesn't scale well for a site that needs to be high-performance.
+2012-10-01 05:43:42	-->	svetlyak40wt (~svetlyak4@2a02:6b8:0:101:9148:cb2e:4834:a5b9) has joined #python
+2012-10-01 05:43:44	Naeblis	especially when offsets can be very large
+2012-10-01 05:43:49	<--	mwhooker (~mwhooker@50.23.111.66-static.reverse.softlayer.com) has quit (Ping timeout: 248 seconds)
+2012-10-01 05:44:15	xispirito	these python-iptables is new, not official ... i still with my subprocess
+2012-10-01 05:44:23	nedbat	Naeblis: i doubt a large offset is slower than a small one, but you are grabbing each byte 8 times, so it could be faster.
+2012-10-01 05:44:36	Yhg1s	kcunning: you can use crappy things, sure. Scaling is not really a problem for any of the decent frameworks, unless you go out of your way to do things in an inefficient way.
+2012-10-01 05:44:49	nedbat	Naeblis: I would make a 256-element list, how many bits are in each possible byte value, then loop the bytes, adding those numbers.
+2012-10-01 05:45:02	Yhg1s	xispirito: so do you understand what 'class' does? And why what you were doing makes no sense what so ever?
+2012-10-01 05:45:11	-->	kosh (~Kosh@aesaeion.com) has joined #python
+2012-10-01 05:45:12	-->	argoneus (~argoneus@unaffiliated/argoneus) has joined #python
+2012-10-01 05:45:34	nedbat	Yhg1s: you seem a bit testy today...
+2012-10-01 05:45:35	xispirito	Yhg1s: i know wath class does =D
+2012-10-01 05:45:45	-->	sicanjal (~sicanjal@host-92-8-85-160.as43234.net) has joined #python
+2012-10-01 05:45:46	-->	svetlyak40wt_ (~svetlyak4@dhcp175-118-red3.yandex.net) has joined #python
+2012-10-01 05:45:52	-->	einsof (~einsof@h-149-70.a336.priv.bahnhof.se) has joined #python
+2012-10-01 05:46:01	afidegnum	hmmm,..... :) here we start
+2012-10-01 05:46:06	-->	esc24 (~esc24@193.61.104.66) has joined #python
+2012-10-01 05:46:10	xispirito	Yhg1s: i have an script that instance and calls these ugly classes that i have made, now i just to make it better
+2012-10-01 05:46:20	xispirito	#its
+2012-10-01 05:46:25	<--	FusionX (lol@unaffiliated/fusionx) has quit (Ping timeout: 246 seconds)
+2012-10-01 05:46:28	-->	babilen (~babilen@unaffiliated/babilen) has joined #python
+2012-10-01 05:46:29	-->	tech2 (~tech2@5e0fcacf.bb.sky.com) has joined #python
+2012-10-01 05:46:30	mrenouf	finally found a good use for Log.wtf
+2012-10-01 05:46:31	afidegnum	any mechanism which allows to csv feeds into the content database ?
+2012-10-01 05:46:35	Yhg1s	xispirito: I'm talking about the code you pasted. The code you pasted cannot work, because that's not how 'class' works.
+2012-10-01 05:46:38	mrenouf	wrong chan :-(
+2012-10-01 05:46:45	Yhg1s	nedbat: I'm not sure why you say this.
+2012-10-01 05:46:59	-->	baojun (~Administr@183.1.163.243) has joined #python
+2012-10-01 05:47:06	xispirito	Yhg1s: yes, they don't work, i pasted it to ask for ideas
+2012-10-01 05:47:07	-->	mwhooker (~mwhooker@c-24-6-209-66.hsd1.ca.comcast.net) has joined #python
+2012-10-01 05:47:07	afidegnum	I can't see a flask extension that does that
+2012-10-01 05:47:10	nedbat	Yhg1s: "no sense whatsoever" maybe I'm wrong.
+2012-10-01 05:47:21	Yhg1s	nedbat: have you seen the code I'm talking about? :)
+2012-10-01 05:47:30	Yhg1s	(http://dpaste.com/808427/)
+2012-10-01 05:47:30	 *	nedbat admits he has not
+2012-10-01 05:47:40	kikulli	afidegnum: I use pycharm2.6.2
+2012-10-01 05:47:54	<--	svetlyak40wt (~svetlyak4@2a02:6b8:0:101:9148:cb2e:4834:a5b9) has quit (Ping timeout: 240 seconds)
+2012-10-01 05:48:13	-->	kahtahs_ (~kahtahs@unaffiliated/shathak) has joined #python
+2012-10-01 05:48:14	xispirito	Yhg1s: these is the actual in use, working: http://dpaste.com/808438/
+2012-10-01 05:48:37	-->	stranac (~stranac@78-3-225-205.adsl.net.t-com.hr) has joined #python
+2012-10-01 05:48:38	xispirito	the other is just pieces to chioce and implement, thinkings ...
+2012-10-01 05:48:39	-->	and7ey (~Miranda@95-27-167-198.broadband.corbina.ru) has joined #python
+2012-10-01 05:48:43	nedbat	xispirito: start with line 8: this is not how you define the arguments for a class constructor.
+2012-10-01 05:48:58	afidegnum	I got few references for you ... http://youtrack.jetbrains.com/issue/PY-5092 http://youtrack.jetbrains.com/issue/IDEA-71747  http://www.jetbrains.com/pycharm/whatsnew/whatsnew_2x.html
+2012-10-01 05:49:02	nedbat	xispirito: I think it's an unfortunate syntax Python chose, since it is so confusing with constructing the class.
+2012-10-01 05:49:03	Naeblis	nedbat, not sure I understand. "how many bits are in each possible byte value" Do you mean take 8 bytes a time and do a count, storing the result in the list...?
+2012-10-01 05:49:21	Yhg1s	xispirito: there doesn't seem to be all that much point to that class, either. It should probably just be a bunch of functions instead. A bunch of functions that call a single function with the refactored subprocess call.
+2012-10-01 05:49:27	<--	qwerty1793 (~qwerty179@5ad2c749.bb.sky.com) has quit (Quit: KVIrc 4.0.4 Insomnia http://www.kvirc.net/)
+2012-10-01 05:49:33	and7ey	Hi, I use simplejson. Is there any way to simplify the code like below jsonData.get('data').get('ratingData').get('rating')?
+2012-10-01 05:49:40	nedbat	Naeblis: bits_in_byte = [0, 1, 1, 2, 1, 2, 2, 3, ...]   so that bits_in_byte[N] is the number of bits in N.
+2012-10-01 05:49:44	-->	jorrit (~jorrit@crystalspace3d.org) has joined #python
+2012-10-01 05:49:49	-->	shakaran (~shakaran@74.Red-83-52-97.dynamicIP.rima-tde.net) has joined #python
+2012-10-01 05:49:49	xispirito	Yhg1s: thats why i rewriting all and ask here
+2012-10-01 05:49:59	afidegnum	anyone found a flask extension which allows to import contents from csv into a db?
+2012-10-01 05:50:12	--	qos is now known as qos|away
+2012-10-01 05:50:13	Yhg1s	xispirito: ok, so here's you rewrite it: remove the class, remove all the 'self' arguments from the methods, make them functions.
+2012-10-01 05:50:17	nedbat	Naeblis: then you can add those values.
+2012-10-01 05:50:37	-->	matessim (~matessim@85-250-180-121.bb.netvision.net.il) has joined #python
+2012-10-01 05:50:46	Naeblis	nedbat, ah, got it! :)
+2012-10-01 05:50:56	Yhg1s	xispirito: then make one or two functions that call subprocess.call() with the arguments that don't change, and pass in the things that do change.
+2012-10-01 05:51:01	-->	robocoin (~robocoin@unaffiliated/robocoin) has joined #python
+2012-10-01 05:51:04	xispirito	i saty with one class for things, like class inpu, output, icmp and so on ...
+2012-10-01 05:51:16	xispirito	#saty
+2012-10-01 05:51:22	nedbat	*stay
+2012-10-01 05:51:27	<--	kahtahs (~kahtahs@unaffiliated/shathak) has quit (Ping timeout: 256 seconds)
+2012-10-01 05:51:28	xispirito	wow, stay ??
+2012-10-01 05:51:50	xispirito	smoking and typing =
+2012-10-01 05:51:51	Yhg1s	xispirito: why are you sticking with classes? The classes are pointless. They don't add anything other than namespacing -- which is what modules are for.
+2012-10-01 05:51:51	xispirito	=D
+2012-10-01 05:52:00	nedbat	xispirito: Yhg1s is suggesting you don't need classes.  Why do you want them?
+2012-10-01 05:52:08	<--	qos|away (~qos@221.223.94.113) has quit (Quit: Leaving...)
+2012-10-01 05:52:16	-->	altipard (~altipard@HSI-KBW-095-208-076-153.hsi5.kabel-badenwuerttemberg.de) has joined #python
+2012-10-01 05:52:21	xispirito	to instance and call when needed
+2012-10-01 05:52:23	kikulli	afidegnum: I've seen those sites too but it does not give any solution.
+2012-10-01 05:52:43	Yhg1s	xispirito: instantiation won't do anything useful, since you don't have any instance data and aren't using 'self' anywhere in the methods.
+2012-10-01 05:53:23	-->	Johnsknees (~Johnsknee@unaffiliated/johnsknees) has joined #python
+2012-10-01 05:53:28	nedbat	Naeblis: you can use this:  bits_in_byte = [bin(n).count('1') for n in range(256)]
+2012-10-01 05:53:59	-->	[Tritium] (~tritium@cpe-76-180-163-223.buffalo.res.rr.com) has joined #python
+2012-10-01 05:54:24	Naeblis	nedbat, thanks. Was just thinking about how to generate that.
+2012-10-01 05:55:02	nedbat	xispirito: do you understand the point Yhg1s is making?  Classes usually have data attributes, and yours doesn't.
+2012-10-01 05:55:16	<--	Epicurean (~Epicurean@43.78.252.27.dyn.cust.vf.net.nz) has quit
+2012-10-01 05:55:49	xispirito	even in these case? http://dpaste.com/808443/
+2012-10-01 05:55:56	xispirito	is better use functions ... ?
+2012-10-01 05:56:12	<--	Wharncliffe (~glen@unaffiliated/ridout) has quit (Quit: Lost terminal)
+2012-10-01 05:56:14	Yhg1s	xispirito: again, that class staement makes no sense.
+2012-10-01 05:56:28	nedbat	xispirito: it's a little hard to tell from this code because this doesn't actually define a class. You don't have the right syntax.
+2012-10-01 05:56:28	Yhg1s	xispirito: but yes, if you made that a function, that would make more sense.
+2012-10-01 05:56:39	racho	xispirito, yes use a function there. a
+2012-10-01 05:56:55	<--	sirstan (~sirstan@unaffiliated/sirstan) has quit (Ping timeout: 246 seconds)
+2012-10-01 05:57:06	xispirito	nedbat: that code dont work, is just a idea
+2012-10-01 05:57:07	-->	Gons31 (~Gons@223.165-66-87.adsl-dyn.isp.belgacom.be) has joined #python
+2012-10-01 05:57:16	xispirito	and ok, i try with a function
+2012-10-01 05:57:21	nedbat	xispirito: great.
+2012-10-01 05:57:27	<--	Gons31 (~Gons@223.165-66-87.adsl-dyn.isp.belgacom.be) has quit (Killed (idoru (Spam is off topic on freenode.)))
+2012-10-01 05:57:31	 *	[Tritium] was about to comment... but it was covered quickly
+2012-10-01 05:58:17	<--	kikulli (~Glis@92.82.78.248) has quit (Quit: Lost terminal)
+2012-10-01 05:58:17	<--	pratz (~pratz@14.140.226.234) has quit (Read error: Connection reset by peer)
+2012-10-01 05:58:40	<--	baojun (~Administr@183.1.163.243) has quit (Ping timeout: 246 seconds)
+2012-10-01 05:58:41	<--	fire_ (~fire@unaffiliated/codingenesis) has quit (Quit: WeeChat 0.3.8)
+2012-10-01 05:59:05	-->	w0bni (~Mads@cm-84.215.30.88.getinternet.no) has joined #python
+2012-10-01 05:59:10	spaceone	is there a construct to create a function without def and lambda?
+2012-10-01 05:59:11	-->	baojun (~Administr@183.1.160.73) has joined #python
+2012-10-01 05:59:30	arvind_khadri	Hi, I have been wanting to setup my ipython and virtual environments, reading this http://blog.ufsoft.org/2009/1/29/ipython-and-virtualenv.  But first the system wide packages are being read and then the virtual environments one.  What am I doing wrong?
+2012-10-01 05:59:30	spaceone	i want to make foo.bar = func:
+2012-10-01 05:59:38	-->	fire_ (~fire@unaffiliated/codingenesis) has joined #python
+2012-10-01 06:00:01	[Tritium]	spaceone: yes....but it involves eval
+2012-10-01 06:00:10	 *	racho shudders
+2012-10-01 06:00:13	spaceone	hmm thats not nice
+2012-10-01 06:00:27	<--	matessim (~matessim@85-250-180-121.bb.netvision.net.il) has quit (Ping timeout: 245 seconds)
+2012-10-01 06:01:07	spaceone	maybe i have to do st. like def foo: bar; a.foo = foo; del foo;
+2012-10-01 06:01:23	-->	phracker (~phracker@66.23.233.41) has joined #python
+2012-10-01 06:01:36	nedbat	spaceone: can you explain why you don't want to use def or lambda?
+2012-10-01 06:01:40	[Tritium]	you can look in functools to see if there may be another way to build a function object
+2012-10-01 06:02:23	spaceone	nedbat: because i am in a class which needs to set someclassobj.foo = function
+2012-10-01 06:02:51	nedbat	spaceone: you need to define methods after the class is created?  Why is that?
+2012-10-01 06:02:54	[Tritium]	def somefunc(sigarg1, sigarg2): pass
+2012-10-01 06:02:56	-->	matessim (~matessim@room25.matan.me) has joined #python
+2012-10-01 06:03:09	[Tritium]	object.otherfunc = somefunc
+2012-10-01 06:03:34	<--	mwhooker (~mwhooker@c-24-6-209-66.hsd1.ca.comcast.net) has quit (Quit: Computer has gone to sleep.)
+2012-10-01 06:03:36	nedbat	[Tritium]: it's easier for me to follow the conversation if you use people's nicks...
+2012-10-01 06:03:46	spaceone	[Tritium]: yes that is not nice, because the function exists in the class then
+2012-10-01 06:03:54	-->	InfinityL (~nak123@14.96.111.209) has joined #python
+2012-10-01 06:04:01	nedbat	spaceone: why don't you want the function to be in the class?
+2012-10-01 06:04:05	spaceone	nedbat: no i dont need to define methods
+2012-10-01 06:04:08	<--	tech2 (~tech2@5e0fcacf.bb.sky.com) has quit (Ping timeout: 246 seconds)
+2012-10-01 06:04:17	nedbat	spaceone: what do you need to do?
+2012-10-01 06:04:23	racho	spaceone, then define it outside the class and the pass it at instance time
+2012-10-01 06:04:43	-->	atsidi (~nkraft@ip72-192-253-246.dc.dc.cox.net) has joined #python
+2012-10-01 06:04:52	-->	KevinSjoberg (~KevinSjob@193.12.19.205) has joined #python
+2012-10-01 06:05:04	spaceone	nedbat: because the function belongs to the object, which is not always a nested class
+2012-10-01 06:05:29	<--	esc24 (~esc24@193.61.104.66) has quit (Quit: Leaving)
+2012-10-01 06:05:30	[Tritium]	spaceone: what?
+2012-10-01 06:05:35	nedbat	spaceone: I don't know how your program is different than any other, why you can't just have a class with methods on it.  Can you help me understand?
+2012-10-01 06:05:52	spaceone	s/object/in the class are classes and methods
+2012-10-01 06:05:52	<--	leotr (~kvirc@80.242.213.82) has quit (Remote host closed the connection)
+2012-10-01 06:06:05	spaceone	i will create an example
+2012-10-01 06:06:31	<--	gerard0 (~gerardo@envy.gerardo.cc) has quit (Ping timeout: 272 seconds)
+2012-10-01 06:06:47	<--	wachpwnski (~Adium@c-67-176-229-52.hsd1.in.comcast.net) has quit (Read error: Connection reset by peer)
+2012-10-01 06:06:58	-->	wachpwnski (~Adium@c-67-176-229-52.hsd1.in.comcast.net) has joined #python
+2012-10-01 06:07:39	-->	fayaz (~quassel@111.92.110.232) has joined #python
+2012-10-01 06:08:49	<--	Supreme__ (~supdoh@cpe-72-228-134-254.buffalo.res.rr.com) has quit (Ping timeout: 246 seconds)
+2012-10-01 06:09:29	spaceone	[Tritium]: nedbat http://cxg.de/_cc6559.htm
+2012-10-01 06:09:30	<--	jrickman (~jrickman@unaffiliated/jrickman) has quit (Quit: Leaving...)
+2012-10-01 06:09:57	nedbat	spaceone: why do your methods have functions defined on them?
+2012-10-01 06:10:00	-->	jrickman (~textual@unaffiliated/jrickman) has joined #python
+2012-10-01 06:10:23	Left_Turn	if i have a for loop and an if statement inside.. if i use break.. will that only stop the if statement from continuing or will it also stop the for loop?
+2012-10-01 06:10:31	nedbat	spaceone: and why is foo inside Foo?
+2012-10-01 06:10:41	[Tritium]	Left_Turn: break stops loop iterations
+2012-10-01 06:10:46	nedbat	Left_Turn: only the for loop.
+2012-10-01 06:10:50	-->	JotaK (~tux@unaffiliated/jotak) has joined #python
+2012-10-01 06:10:50	-->	hyphenated (~hyphenate@116.50.167.3) has joined #python
+2012-10-01 06:10:54	Left_Turn	ah ok thanks
+2012-10-01 06:10:56	-->	mgrouchy (~mgrouchy@CPE0026bb736f7f-CM78cd8ed40e55.cpe.net.cable.rogers.com) has joined #python
+2012-10-01 06:11:09	nedbat	spaceone: you are trying to structure your code in very unsual ways, but I don't know why you want to.
+2012-10-01 06:11:23	<--	jrickman (~textual@unaffiliated/jrickman) has quit (Client Quit)
+2012-10-01 06:11:25	racho	spaceone, what are you trying to achieve there? decorators? some design pattern?
+2012-10-01 06:11:29	spaceone	its a hook mechanism
+2012-10-01 06:11:33	[Tritium]	Left_Turn: if you want to skip back to the begining of the loop from an if/else tree, use continue
+2012-10-01 06:11:44	-->	jrickman (~textual@unaffiliated/jrickman) has joined #python
+2012-10-01 06:12:12	<--	ben_nicoll (~ben_nicol@d110-32-152-162.sun800.vic.optusnet.com.au) has quit (Quit: I'm asleep)
+2012-10-01 06:12:21	-->	Vertel (~Vertel@CPE-124-186-86-140.lns9.woo.bigpond.net.au) has joined #python
+2012-10-01 06:12:37	<--	bal_ (~bal@79.119.152.143) has left #python ("Leaving")
+2012-10-01 06:12:50	-->	bal_ (~bal@79.119.152.143) has joined #python
+2012-10-01 06:13:06	Left_Turn	ah yes youre right
+2012-10-01 06:13:09	Left_Turn	thanks:)
+2012-10-01 06:13:18	-->	ben_nicoll (~ben_nicol@d110-32-152-162.sun800.vic.optusnet.com.au) has joined #python
+2012-10-01 06:13:38	-->	BlaXpirit (~blaxpirit@197-192-200-46.pool.ukrtel.net) has joined #python
+2012-10-01 06:14:09	spaceone	nedbat: hmm, i think i am searching for something like an static class/ other construct…
+2012-10-01 06:14:22	-->	gerard0 (~gerardo@envy.gerardo.cc) has joined #python
+2012-10-01 06:14:41	nedbat	spaceone: you can create class attributes distinct from instance attributes.
+2012-10-01 11:28:39		irc: disconnected from server
+2012-10-01 11:28:56	--	#python: #python-unregistered :Forwarding to another channel
+2012-10-02 13:35:05	-->	joshkunz (~Joshkunz@128.110.66.18) has joined #python
+2012-10-02 13:35:05	--	Topic for #python is "NO LOL | NO PROJECT EULER | Don't paste, use http://bpaste.net/+python | 2.x or 3.x? http://bit.ly/py2vs3k | Tutorial: http://bit.ly/MCAhYx | New programmer? http://goo.gl/c170V | Find your nearest Python User Group: http://goo.gl/S1Zsq | #python-fr #python.de #python-es #python.tw #python.pl #python-br #python-nl #python-ir #python-fi #python.it"
+2012-10-02 13:35:05	--	Topic set by ssbr (~scorchsab@python/site-packages/ssbr) on Thu, 30 Aug 2012 01:48:52
+2012-10-02 13:35:05	--	Nicks #python: [[[zz]] [mad]Berry [SLB] [Tritium] \u03b5 __class__ __machine __main__ __name__ _Brian _fmm _ikke_ _jam _root_ _TB_ _unary _val_ `mx AaronMT abner aboudreault acg acrocity AcTiVaTe adepti37 ader10 Adran Adys afox afx agileadam Aha2Y ahaerpfer aharley aitrus ajvb akiress akl akujin al14s Alan albel727 AlbireoX`Laptop AlcariTheMad alexander__b alexdoom AllStruck altipard Amadiro AmandaC amaninacan ambroff ameoba ameoba_ amoe amogorkon anaconda andar AndrewBC animal_style Ankhers Antice antihero aperson AppelonD apter araujo arch_enemy74 Archdude ArdRigh argoneus aristidesfl arosen arrsim asbjxrn asdf` ashfall_ asksol asobrasil ASUchander at3560k athe Atlas atragor Avaris avelldiroll averell avu awahlig awpti Axsuul babilen Back2Basics BadLarry bal_ balaa ballingt barika barometz BaronTwunty bburhans beatpanic bgamari biberao BiDOrD binarydigit binjured bla Blaguvest blast_hardcheese BlastHardcheese BlaXpirit blenny Blkt Blu3 bmn bob_f bojo bonsaikitten booi BoomBox boos Bootvis bradleyayers bradsimantel brdma brewmaster brian briancray Brklyn broeman broerd Brooke Bry8Star bryno bsdbandit bugfree Burgundy burhan buttscicles c45y Caelum cahill cakehero CalvinnHobbes camerin CareBear\ carljm catmtking ccxCZ cdsboy cedr ch077179 chainey chainsawbike chaos95 ChaozZBubi chirpsalot chmuri chris_0076 chrismed ChrisOelmueller chrisq chronos cibs cjoke classix Cleo cnf codebrainz codepython777 codl cogwheel com4 comand comawhite commx companion companion_cube confluency convict cooldude corndog04 crashmag Crayboff crazedpsyc CrazyGir crazymykl crispus Criztian croepha cruxeter1us cryptic cuqa cwillu cwillu_at_work cYmen cyphase d4red3vil daemon daemonkeeper Dan39 dan_johnsin danielsh danmackay dannib DarkSector DarthGandalf darthlukan dash dashavoo DataBeaver dbrgn dbristow dd72ddd dddh DeadSix27 Deathspawn deavid Deaygo deepy Defektro delkin deltab Demosthenes deni derferman dermoth|home dermoth|work Dettorer devhost dEX dextone dh dibb Digital_Lemon digitalfiz digitallogic dijonyummy diminoten dimka dionyziz disposable djbrown dju dlam dmishe dmrz dnstbr donkdonk dpn` dpwrussell Drager drags dropdrive dubios due dukey dupa dvessel dweez_ dxtr Dynetrekk e0 E1ven e66 echos edong23 EdwardIII eevee egret einsof ejnahc elmargol ElPollo em Emayu Embalmed emilnd EnCuKou Ephexeve epopt37 erg EricAhn erik- errr eshlox estebistec etank EToS Euthy eviljames explodes EyePulp EyesIsMine ezakimak f47h3r f_droopy_ faen faffi faldridge farciarz84 fasta Favoretti fayaz fcoury felipe fgomez FichteFoll fif0 finnrobi fire_ Fireblasto fireglow fission6 fisted fkm flebel fluxdude FnorZ folivora fortytwo FOX_candy fpk^away fr33co Freeder froopy Frozenball FunnyLookinHat Fuu fxdgear fxhp g_byers[Away] gardenmwm gartenstuhl Gates gatuus gclawes gdduzan Gentle GeorgeJ gerard0 githogori gkatsev glebihan gmcabrita gnnr godber GorillaPatch Gorroth gpaci gr3yh47 Gracenotes grey grubles gry Guest56933 gushie guyzmo gwork gzl haard Habbie hachque hackeron hansy hansz HarryS Harzilein Hasselsaurus hatchetjack HedgeMage heedly heinrich5991 hesco1 hgb hi117 Hien_ hiptobecubic hobbeswalsh Holy_Cow HolyGoat hop HorribleBehavist hyperboreean hyphenated_ i7c icee idegen ignasr igors iivvoo ikanobori Ikarus impeldown infobob infogulch Innominate Insayne Internet13 iphelix ironfroggy Ishaq isomer ivan\ ivan` ivank ivenkys j0br j_king j_syk JackieXu jamesls jamesn_ JanC jarr0dsz jart Jason2gs Jaykul jayne jb0t JC_SoCal jdiez jefferai jeffrubic Jellyg00se jepler Jerub jesyspa jeverling Jezzz JFreegman jgelens Jikai jkbbwr jkyle jmcantrell JodaZ joe joedj joelcox john_f jokar jonez jordonias joshbaptiste joshfinnie joshkunz JotaK JPeterson JRandolph jrgill jrib jrickman jroo jrwren jSanp jsec JSharpe jsjc JStoker jtrucks Jucato Juhaz jvolkman jvv jwhisnant jxt KA kahtahs KaiSforza kakashi_ kaktus Kal` kamyl kanyl kanzure Katharsis katherinem13 kayatwork kayfox kbrosnan kcunning kedoodek keeb Keekles kel39 kendriu kermit kesselhaus kevlarman kexwork Khoyo Kiall kil0 Kiliko killown kinabalu kini Kins kirin` KirkMcDonald Kismet010 kkimlabs kliph Knio Know1edge kode54 koobs kosh Kronuz krosis Kruppe krushia kugter kuja kunwon1 kushal3 kuzary Kwpolska l2esonance l4mRh4X0r lahwran lakcaj lanemeyer Lartza Launch_Director lavish ldlework Learath2 Left_Turn Leitz leptonix lesshaste liberum lightquake linduxed liori Logan_ lonequid LoRez lrvick ltsstar lucian luki- lvh m4rduk m8 MaaaZ macabre machisuji Madars magcius magnus_ magopian mahtikebab majoh malifae mandel marcini marcinkuzminski marienz Markaci masquerade mattb mattikus mattmcc MatToufoutu maxmanders maxorator maZtah MB_wrk MChizhov Mcloven mcsontos mdnss megamark16 megaTherion mercutio22 merlin83 Merwin_ mgrouchy midnightmagic mikeshultz milleja46 Milos Milossh MindDrive MissionCritical misua mito__ mitsuhiko mjr84 mmercer mnabil mnaser mns Mogget moldy mollerstrand mooky Morrolan|Away Mortchek moruk MostAwesomeDude mpan MrElendig mrenouf mrkotfw mrmist MRN msabramo msmhrt mtx_init muraii murr4y muteki mwynne Myk267 mysticc mythmon myusuf3 n9mtb Naeblis nand` nanonyme NaPs naquad navik nchlssmith1 necavi nedbat nedbee neersighted NelleV nemo-yiannis Neptu NickASloan nickoe nickpresta nicolasph nigelb niklasb nikola NimeshNeema Nisstyre nkts nlc no-n nocturnal NomadJim NoNaMeNo NoobCoder nopf nosklo nyuszika7h oal obiwahn oconnore olasd Oldboy ole omni5cience OOPMan opieng Or1on Orbitrix ordsel orf_ ormaaj Orphis OSreX Out`Of`Control ovejorock Ox31c0 Oxyd pa Pagan pamasaur PapaSmurf007 papna Paradox924X pdobrogost peeps peeps[lappy] Peng peper pergaminho Peter-W Phantomas phantomcircuit Phazorx phenom phracker phryk phschwartz|away phuzion Pici piffey piggybox Pilate pingveno Pixa PJBoy PKKid PKKid1 PlasmaBunny pleed plfs plundra pootpoot popolvuh populvuh pozican pr3d4k4t pragma- Praise preaction Preston4tw prg318 Programmer_ programmerq psil psycodad PuffTheMagic punee purch pyn pythonchelle Qantourisc qos|away qr qu1ckkkk quake_guy quorteth quuxman R2D2Warrior_ rabbitear RaceCondition Ragun raid raininja raj` randomhuman raposinha Raugturi raydeo Raynes rcj_ rcxdude redblue redeemed redofrac redrocket RedXIII reenignEesreveR regtools regulate Reite remote Remram resistivecorpse revdiablo Rhamphoryncus rickest ricky rideh rizumu RoadKillGrill rob``` RobbieCrash Robinux robocoin rodolphoeck roto roxfan Rozza ruddyadam Rundll russfrank rvchangue rw RWJMurphy ryanakca rz rzyz saac sadmac SAHChandler saispo Salek samfalkner samu Sanky santegoeds sawjig sayan scharan schleppy schmilblick scoob scorphus sdeng seagreen sebastianb SebastianFlyte sebbu SecretAgent SegFault1X sejo sekanS sente seoul_man seravitae Sergonium serj seth-- sethstorm sevenfourk SeySayux sezuan sh4wn Shadda ShadeTornado ShADoWCaSTeR SHAGGSTaRR shakaran sideffect Silex Silly sir_tyrion SirDeiu SirScott sitaktif sivy sjaak_trekhaak sjihs skaufman skered skoskav SkyNetMaster sl33v3 slowpoke smw Snakes Snizzel soldicon solusipse Sonderblade SonicvanaJr sorressean Sove sp00fz SpaceDoG spaceone spade spditner sphenxes spo12 sprockee Squarepy srcerer ssbr stargaming Stealth stoggi Stormy stranac streety Strife Strogg Stry StuartL stuckpig submitform Supreme__ Svedrin svetlyak40wt sw0rdfish swiety sykes Sylphid|home Synthead syrius sysop_fb t0h Taar779_w Tactical_ talib tamiel tan tazle TBCOOL tdfischer TDJACR TeamMat tedoc2000 tehKitten Tehnix tekacs teklol telling tenmilestereo TenshiLyle tensorpudding tenth teratoma teratorn thang thanmustoki The-Compiler the_lalelu the_metalgamer the_rat TheFuzzball themagician TheNumb theplanet therealfakemoot thiderman thief thief_ ThiefMaster thirsteh thomas thorbjornDX Thyem tiaz tiger_eye TingPing tiphares tito tiwula tlvb TML TML-prv tntc Tobarja tocf toddpratt toddw toehio tomaw tomaw_ tomwardill toothrot Torhal Torhal|work tos9 totte tqrst TraceEv Trae32566 Trashlord travisgriggs tritoul Tron- Tropolis troyt Trundle trwired twoxyo txwikinger Typo tyteen4a03 udoprog uncreative unreal unreal-dude uris Uriziel urlgrabber v0lksman vamar VaNNi varrg Veidit veloutin Vertel VeXocide Vgr Viiru Villadelfia Vinky violator virhilo vladan vladikoff VnC_ voltagex VooDooNOFX_ Vye w0ng waa wachpwnski waerloga WanderingGlitch wapiflapi wardi wchun wd40s Weems whee wilblack Wild_Cat Will| Wu Wulf4 Xaseron xenplex xiphiasx_ xispirito xnavor xorspark xtal xy yac yano yeltzooo Yhg1s ymas z0ran zamba zatan zendeavor zeograd zeroz zhurai zidoh zooz zoroaster zoumpis ztane ZyX-I |DM|]
+2012-10-02 13:35:05	--	Channel #python: 1035 nicks (0 ops, 0 halfops, 0 voices, 1035 normals)
+2012-10-02 13:35:07	--	Mode #python [+CLcnrtf #python-unregistered]
+2012-10-02 13:35:07	--	Channel created on Sat, 25 Nov 2006 23:42:41
+2012-10-02 13:35:43	FOX_candy	i am trying out this tutorial on a book called invent your own computer games with python
+2012-10-02 13:35:49	dash	aha
+2012-10-02 13:35:51	<--	jsjc (~Adium@188.78.152.54) has left #python
+2012-10-02 13:35:52	<--	svetlyak40wt (~svetlyak4@broadband-95-84-141-55.nationalcablenetworks.ru) has quit (Read error: Connection reset by peer)
+2012-10-02 13:35:53	-->	Valdo (~supermac@92.90.17.7) has joined #python
+2012-10-02 13:36:02	-->	sstagg (~sstagg@243.96.113.87.dyn.plus.net) has joined #python
+2012-10-02 13:36:09	FOX_candy	and there's this part i m trying to do differently from the code in the book
+2012-10-02 13:36:11	ameoba	apter:  are you sure that's the whole thing?  Does it fail on the first time through the program, or later runs?
+2012-10-02 13:36:13	-->	rahul67 (~rahulka@122.161.133.116) has joined #python
+2012-10-02 13:36:18	-->	leahim (~mihael@gateway/tor-sasl/mihael/x-69139756) has joined #python
+2012-10-02 13:36:20	FOX_candy	import sys
+2012-10-02 13:36:21	-->	fgallina (~user@host97.181-14-227.telecom.net.ar) has joined #python
+2012-10-02 13:36:21	FOX_candy	import time
+2012-10-02 13:36:21	FOX_candy	def printintro():
+2012-10-02 13:36:21	FOX_candy	    print("You are in a land full of dragons. In front of you, you see two caves. In one cave, the dragon is friendly and will share his treasure with you. The other dragon is greedy and hungry, and will eat you on sight.")
+2012-10-02 13:36:21	FOX_candy	    print("\nWhich cave will you go into? (1 or 2)")
+2012-10-02 13:36:22	FOX_candy	def wait_user_input():
+2012-10-02 13:36:24	FOX_candy	    self.user_input  = int(input())
+2012-10-02 13:36:26	-->	chrisgeorge (~chrisgeor@surveymonkey-3.mpr1.pao001.pnap.net) has joined #python
+2012-10-02 13:36:27	-->	svetlyak40wt (~svetlyak4@broadband-95-84-141-55.nationalcablenetworks.ru) has joined #python
+2012-10-02 13:36:28	FOX_candy	def good_or_bad(user_input):
+2012-10-02 13:36:30	FOX_candy	    if(self.user_input == 1):
+2012-10-02 13:36:31	dash	FOX_candy:  please do not paste here
+2012-10-02 13:36:32	FOX_candy	        print("You approach the cave...")
+2012-10-02 13:36:34	FOX_candy	        print("It is dar and spooky...")
+2012-10-02 13:36:34	--	Mode #python [+o dash] by ChanServ
+2012-10-02 13:36:34	MrElendig	FOX_candy: use a pastebin please
+2012-10-02 13:36:36	FOX_candy	        print("A large dragon jumps out in front of you! He opens his jaws and...")
+2012-10-02 13:36:36	<--	dash has kicked FOX_candy (FOX_candy)
+2012-10-02 13:36:41	-->	randil (~randil@94.19.169.177) has joined #python
+2012-10-02 13:36:42	bal_	:)
+2012-10-02 13:36:44	sstagg	ty :)
+2012-10-02 13:36:57	<--	leahim (~mihael@gateway/tor-sasl/mihael/x-69139756) has quit (Client Quit)
+2012-10-02 13:37:11	deltab	apter: is fysikk the second file?
+2012-10-02 13:37:15	<--	svetlyak40wt (~svetlyak4@broadband-95-84-141-55.nationalcablenetworks.ru) has quit (Read error: Connection reset by peer)
+2012-10-02 13:37:27	-->	svetlyak40wt (~svetlyak4@broadband-95-84-141-55.nationalcablenetworks.ru) has joined #python
+2012-10-02 13:37:27	-->	HenryTrollins (~zeev@unaffiliated/monagasque) has joined #python
+2012-10-02 13:37:40	apter	ameoba: yup, that the whole thing. It only crashed when i have inputed the two input.
+2012-10-02 13:37:41	HenryTrollins	ah, good thing its in the topic, i was about to ask about python 3.
+2012-10-02 13:37:43	apter	deltab: yup
+2012-10-02 13:37:50	-->	SegFaultAX|work (~SegFaultA@adsl-99-187-75-222.dsl.pltn13.sbcglobal.net) has joined #python
+2012-10-02 13:37:59	deltab	apter: then I don't understand what's happening
+2012-10-02 13:38:23	<--	froopy (~user@67-197-165-60.rh2.cm.dyn.comporium.net) has quit (Ping timeout: 245 seconds)
+2012-10-02 13:38:24	-->	agumonkey (~agu@208.217.72.86.rev.sfr.net) has joined #python
+2012-10-02 13:38:26	apter	deltab: I get the error, when i write the two inputs
