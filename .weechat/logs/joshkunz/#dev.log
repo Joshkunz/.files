@@ -1,0 +1,360 @@
+2012-12-17 07:14:35	-->	josh (~Joshkunz@71-219-31-44.slkc.qwest.net) has joined #dev
+2012-12-17 07:14:35	--	Topic for #dev is "Devlopment Man!"
+2012-12-17 07:14:35	--	Topic set by -Server- on Mon, 17 Dec 2012 05:38:01
+2012-12-17 07:14:35	--	Nicks #dev: [@josh]
+2012-12-17 07:14:35	--	Channel #dev: 1 nick (1 op, 0 halfops, 0 voices, 0 normals)
+2012-12-17 07:14:36	@josh	:q
+2012-12-17 07:14:38	@josh	exit
+2012-12-17 15:30:32	-->	josh (~Joshkunz@ip70-176-221-33.ph.ph.cox.net) has joined #dev
+2012-12-17 15:30:32	--	Topic for #dev is "Devlopment Man!"
+2012-12-17 15:30:32	--	Topic set by -Server- on Mon, 17 Dec 2012 05:38:01
+2012-12-17 15:30:32	--	Nicks #dev: [@josh]
+2012-12-17 15:30:32	--	Channel #dev: 1 nick (1 op, 0 halfops, 0 voices, 0 normals)
+2012-12-17 15:30:34	--	Mode #dev [+P]
+2012-12-17 16:43:42	--	irc: disconnected from server
+2012-12-17 16:43:54	-->	josh (~Joshkunz@ip70-176-221-33.ph.ph.cox.net) has joined #dev
+2012-12-17 16:43:54	--	Topic for #dev is "Devlopment Man!"
+2012-12-17 16:43:54	--	Topic set by -Server- on Mon, 17 Dec 2012 05:38:01
+2012-12-17 16:43:54	--	Nicks #dev: [@josh]
+2012-12-17 16:43:54	--	Channel #dev: 1 nick (1 op, 0 halfops, 0 voices, 0 normals)
+2012-12-17 16:43:56	--	Mode #dev [+P]
+2012-12-17 17:01:25	-->	josh (~Joshkunz@ip70-176-221-33.ph.ph.cox.net) has joined #dev
+2012-12-17 17:01:25	--	Topic for #dev is "Devlopment Man!"
+2012-12-17 17:01:25	--	Topic set by -Server- on Mon, 17 Dec 2012 05:38:01
+2012-12-17 17:01:25	--	Nicks #dev: [@josh]
+2012-12-17 17:01:25	--	Channel #dev: 1 nick (1 op, 0 halfops, 0 voices, 0 normals)
+2012-12-17 17:01:27	--	Mode #dev [+P]
+2012-12-17 21:38:12	--	irc: disconnected from server
+2012-12-17 21:38:24	-->	josh (~Joshkunz@ip70-176-221-33.ph.ph.cox.net) has joined #dev
+2012-12-17 21:38:24	--	Topic for #dev is "Devlopment Man!"
+2012-12-17 21:38:24	--	Topic set by -Server- on Mon, 17 Dec 2012 05:38:01
+2012-12-17 21:38:24	--	Nicks #dev: [@josh]
+2012-12-17 21:38:24	--	Channel #dev: 1 nick (1 op, 0 halfops, 0 voices, 0 normals)
+2012-12-17 21:38:26	--	Mode #dev [+P]
+2012-12-17 22:16:52	--	Mode #dev [-o josh] by josh
+2012-12-18 19:05:15	-->	shawnswa1 (~shawnswa@ip70-176-221-33.ph.ph.cox.net) has joined #dev
+2012-12-18 19:05:24	shawnswa1	hello all
+2012-12-18 19:06:14	josh	How's it going sir.
+2012-12-18 19:07:09	josh	in IRC parlance. something like 'shawnswa: reply' is used to reply to something.
+2012-12-18 19:07:12	josh	so like:
+2012-12-18 19:07:19	josh	shawnswa1: This is a reply
+2012-12-18 19:07:39	josh	also you can change your nickname with /nick
+2012-12-18 19:07:42	--	You are now known as shawn
+2012-12-18 19:07:58	shawn	or you can say things in the third person with /me
+2012-12-18 19:08:04	 *	shawn is talking on the phone.
+2012-12-18 19:08:13	--	You are now known as josh
+2012-12-18 19:09:28	josh	What's interwise?
+2012-12-18 19:12:27	josh	Postgres has ssl database connections. That's pretty cool
+2012-12-18 19:19:37	shawnswa1	Interwise is our Webex like screen sharing tool/
+2012-12-18 19:20:02	--	shawnswa1 is now known as shawn
+2012-12-18 19:29:44	shawn	We should use the SSL connection for Postgres
+2012-12-18 19:29:53	 *	shawn 
+2012-12-18 20:45:25	--	irc: disconnected from server
+2012-12-18 20:45:40	-->	josh (~Joshkunz@ip70-176-221-33.ph.ph.cox.net) has joined #dev
+2012-12-18 20:45:40	--	Topic for #dev is "Devlopment Man!"
+2012-12-18 20:45:40	--	Topic set by -Server- on Mon, 17 Dec 2012 05:38:01
+2012-12-18 20:45:40	--	Nicks #dev: [@josh shawn]
+2012-12-18 20:45:40	--	Channel #dev: 2 nicks (1 op, 0 halfops, 0 voices, 1 normal)
+2012-12-18 20:45:42	--	Mode #dev [+P]
+2012-12-19 01:58:52	--	irc: disconnected from server
+2012-12-19 01:59:05	-->	josh (~Joshkunz@ip70-176-221-33.ph.ph.cox.net) has joined #dev
+2012-12-19 01:59:05	--	Topic for #dev is "Devlopment Man!"
+2012-12-19 01:59:05	--	Topic set by -Server- on Mon, 17 Dec 2012 05:38:01
+2012-12-19 01:59:05	--	Nicks #dev: [@josh shawn]
+2012-12-19 01:59:05	--	Channel #dev: 2 nicks (1 op, 0 halfops, 0 voices, 1 normal)
+2012-12-19 01:59:07	--	Mode #dev [+P]
+2012-12-19 18:57:17	--	irc: disconnected from server
+2012-12-19 18:57:29	-->	josh (~Joshkunz@ip70-176-221-33.ph.ph.cox.net) has joined #dev
+2012-12-19 18:57:29	--	Topic for #dev is "Devlopment Man!"
+2012-12-19 18:57:29	--	Topic set by -Server- on Mon, 17 Dec 2012 05:38:01
+2012-12-19 18:57:29	--	Nicks #dev: [@josh shawn]
+2012-12-19 18:57:29	--	Channel #dev: 2 nicks (1 op, 0 halfops, 0 voices, 1 normal)
+2012-12-19 18:57:31	--	Mode #dev [+P]
+2012-12-19 19:58:19	shawn	http://postgresql.1045698.n5.nabble.com/ssl-client-cert-authentication-td3245261.html
+2012-12-19 20:01:15	shawn	http://www.postgresql.org/docs/devel/static/libpq-ssl.html
+2012-12-19 20:01:28	shawn	Scroll down to 31.18
+2012-12-19 20:43:47	@josh	Shawn It's rebelling
+2012-12-20 08:15:28	<--	shawn (~shawnswa@ip70-176-221-33.ph.ph.cox.net) has quit (Ping timeout: 20 seconds)
+2012-12-26 11:51:33	-->	josh (~Joshkunz@ip70-176-221-33.ph.ph.cox.net) has joined #dev
+2012-12-26 11:51:33	--	Topic for #dev is "Devlopment Man!"
+2012-12-26 11:51:33	--	Topic set by -Server- on Mon, 17 Dec 2012 05:38:01
+2012-12-26 11:51:33	--	Nicks #dev: [@josh]
+2012-12-26 11:51:33	--	Channel #dev: 1 nick (1 op, 0 halfops, 0 voices, 0 normals)
+2012-12-26 11:51:34	@josh	ls
+2012-12-26 11:51:37	--	Mode #dev [+P]
+2012-12-26 11:51:42	--	Mode #dev [-o josh] by josh
+2012-12-26 12:46:00	-->	github (~github@sh2.rs.github.com) has joined #dev
+2012-12-26 12:46:00	github	[ScoutGoals] Joshkunz pushed 1 new commit to master: http://git.io/jDp8yg
+2012-12-26 12:46:00	github	ScoutGoals/master 4c1ced7 Josh Kunz: More troubleshooting for automatic deploy
+2012-12-26 12:46:00	<--	github (~github@sh2.rs.github.com) has left #dev (github)
+2012-12-26 13:00:45	-->	github (~github@sh3.rs.github.com) has joined #dev
+2012-12-26 13:00:45	github	[ScoutGoals] Joshkunz pushed 1 new commit to master: http://git.io/W0YqFA
+2012-12-26 13:00:45	github	ScoutGoals/master 5ef3227 Josh Kunz: Added more debug info to kill_gunicorn script
+2012-12-26 13:00:45	<--	github (~github@sh3.rs.github.com) has left #dev (github)
+2012-12-26 13:40:33	-->	github (~github@sh3.rs.github.com) has joined #dev
+2012-12-26 13:40:33	github	[ScoutGoals] Joshkunz pushed 1 new commit to master: http://git.io/I8n0lw
+2012-12-26 13:40:33	github	ScoutGoals/master 4df0ca9 Josh Kunz: Added in kill_gunicorn matcher
+2012-12-26 13:40:33	<--	github (~github@sh3.rs.github.com) has left #dev (github)
+2012-12-26 13:53:58	-->	github (~github@sh2.rs.github.com) has joined #dev
+2012-12-26 13:53:58	github	[ScoutGoals] Joshkunz pushed 1 new commit to master: http://git.io/nwDgiw
+2012-12-26 13:53:58	github	ScoutGoals/master 3803c76 Josh Kunz: Added in more exclusion criteria
+2012-12-26 13:53:58	<--	github (~github@sh2.rs.github.com) has left #dev (github)
+2012-12-26 13:57:19	-->	github (~github@sh2.rs.github.com) has joined #dev
+2012-12-26 13:57:19	github	[ScoutGoals] Joshkunz pushed 1 new commit to master: http://git.io/8GcA1g
+2012-12-26 13:57:19	github	ScoutGoals/master 7c634de Josh Kunz: Daemonize the gunicorn procs
+2012-12-26 13:57:19	<--	github (~github@sh2.rs.github.com) has left #dev (github)
+2012-12-26 14:00:31	-->	github (~github@sh3.rs.github.com) has joined #dev
+2012-12-26 14:00:31	github	[ScoutGoals] Joshkunz pushed 1 new commit to master: http://git.io/9o8Fog
+2012-12-26 14:00:31	github	ScoutGoals/master ce3c15f Josh Kunz: More debugging information
+2012-12-26 14:00:31	<--	github (~github@sh3.rs.github.com) has left #dev (github)
+2012-12-26 14:14:58	-->	github (~github@sh2.rs.github.com) has joined #dev
+2012-12-26 14:14:58	github	[ScoutGoals] Joshkunz pushed 1 new commit to master: http://git.io/fT3E1g
+2012-12-26 14:14:58	github	ScoutGoals/master 8fd3647 Josh Kunz: Changed filter to drop incorrect lines
+2012-12-26 14:14:58	<--	github (~github@sh2.rs.github.com) has left #dev (github)
+2012-12-26 14:17:38	-->	github (~github@sh3.rs.github.com) has joined #dev
+2012-12-26 14:17:38	github	[ScoutGoals] Joshkunz pushed 1 new commit to master: http://git.io/RHZbwA
+2012-12-26 14:17:38	github	ScoutGoals/master 048f49c Josh Kunz: Added sudo to kill command
+2012-12-26 14:17:38	<--	github (~github@sh3.rs.github.com) has left #dev (github)
+2012-12-26 14:30:20	-->	github (~github@sh2.rs.github.com) has joined #dev
+2012-12-26 14:30:20	github	[ScoutGoals] Joshkunz pushed 1 new commit to master: http://git.io/tUj46A
+2012-12-26 14:30:20	github	ScoutGoals/master 3731853 Josh Kunz: Added in more debugging info.
+2012-12-26 14:30:20	<--	github (~github@sh2.rs.github.com) has left #dev (github)
+2012-12-26 14:52:25	-->	github (~github@sh3.rs.github.com) has joined #dev
+2012-12-26 14:52:25	github	[ScoutGoals] sswaner pushed 3 new commits to master: http://git.io/PhBf4A
+2012-12-26 14:52:25	github	ScoutGoals/master 05d523c Shawn Swaner: Didn't change anything
+2012-12-26 14:52:25	github	ScoutGoals/master 25201e8 Shawn Swaner: Merge branch 'master' of github.com:Joshkunz/ScoutGoals...
+2012-12-26 14:52:25	github	ScoutGoals/master 61b27d1 Shawn Swaner: Merge branch 'master' of github.com:Joshkunz/ScoutGoals
+2012-12-26 14:52:25	<--	github (~github@sh3.rs.github.com) has left #dev (github)
+2012-12-26 15:02:54	-->	github (~github@sh2.rs.github.com) has joined #dev
+2012-12-26 15:02:54	github	[ScoutGoals] sswaner pushed 1 new commit to master: http://git.io/heec5A
+2012-12-26 15:02:54	github	ScoutGoals/master 7e34396 Shawn Swaner: ignored config.py'
+2012-12-26 15:02:54	<--	github (~github@sh2.rs.github.com) has left #dev (github)
+2012-12-26 15:12:18	-->	github (~github@sh2.rs.github.com) has joined #dev
+2012-12-26 15:12:18	github	[ScoutGoals] Joshkunz pushed 4 new commits to master: http://git.io/UpTMWQ
+2012-12-26 15:12:18	github	ScoutGoals/master 300a30b Josh Kunz: Merge shawn's updates
+2012-12-26 15:12:18	github	ScoutGoals/master 4fc17d5 Josh Kunz: Merge branch 'master' of github.com:Joshkunz/ScoutGoals
+2012-12-26 15:12:18	github	ScoutGoals/master b6b4dcd Josh Kunz: Added config files
+2012-12-26 15:12:18	<--	github (~github@sh2.rs.github.com) has left #dev (github)
+2012-12-26 15:16:56	-->	github (~github@sh2.rs.github.com) has joined #dev
+2012-12-26 15:16:56	github	[ScoutGoals] Joshkunz pushed 1 new commit to master: http://git.io/pK3zNw
+2012-12-26 15:16:56	github	ScoutGoals/master d5c2dec Josh Kunz: Changed runserver.py to an executeable
+2012-12-26 15:16:56	<--	github (~github@sh2.rs.github.com) has left #dev (github)
+2012-12-26 16:37:24	-->	github (~github@sh3.rs.github.com) has joined #dev
+2012-12-26 16:37:24	github	[ScoutGoals] sswaner pushed 2 new commits to master: http://git.io/ZrfVdA
+2012-12-26 16:37:24	github	ScoutGoals/master 02acac7 Shawn Swaner: badge maint pages
+2012-12-26 16:37:24	github	ScoutGoals/master 620d745 Shawn Swaner: Merge branch 'master' of github.com:Joshkunz/ScoutGoals
+2012-12-26 16:37:24	<--	github (~github@sh3.rs.github.com) has left #dev (github)
+2012-12-26 16:37:49	-->	github (~github@sh2.rs.github.com) has joined #dev
+2012-12-26 16:37:49	github	[ScoutGoals] Joshkunz pushed 2 new commits to master: https://github.com/Joshkunz/ScoutGoals/compare/620d745c3253...3871fd537dc0
+2012-12-26 16:37:49	github	ScoutGoals/master 5fac954 Josh Kunz: Started working on the wall
+2012-12-26 16:37:50	github	ScoutGoals/master 3871fd5 Josh Kunz: Merge branch 'master' of github.com:Joshkunz/ScoutGoals
+2012-12-26 16:37:50	<--	github (~github@sh2.rs.github.com) has left #dev (github)
+2012-12-26 16:44:12	-->	github (~github@sh2.rs.github.com) has joined #dev
+2012-12-26 16:44:12	github	[ScoutGoals] Joshkunz pushed 1 new commit to master: http://git.io/aGBFWw
+2012-12-26 16:44:12	github	ScoutGoals/master a41b15d Josh Kunz: Removed html escaping
+2012-12-26 16:44:12	<--	github (~github@sh2.rs.github.com) has left #dev (github)
+2012-12-26 17:01:15	-->	github (~github@sh2.rs.github.com) has joined #dev
+2012-12-26 17:01:15	github	[ScoutGoals] Joshkunz pushed 1 new commit to master: http://git.io/Ucgc1g
+2012-12-26 17:01:15	github	ScoutGoals/master b631732 Josh Kunz: Fixed formatting errors
+2012-12-26 17:01:15	<--	github (~github@sh2.rs.github.com) has left #dev (github)
+2012-12-26 17:04:19	-->	github (~github@sh3.rs.github.com) has joined #dev
+2012-12-26 17:04:19	github	[ScoutGoals] Joshkunz pushed 1 new commit to master: http://git.io/073oHg
+2012-12-26 17:04:19	github	ScoutGoals/master a579ccc Josh Kunz: Switch script tags for style tags
+2012-12-26 17:04:19	<--	github (~github@sh3.rs.github.com) has left #dev (github)
+2012-12-26 18:51:07	-->	josh (~Joshkunz@ip70-176-221-33.ph.ph.cox.net) has joined #dev
+2012-12-26 18:51:07	--	Topic for #dev is "Devlopment Man!"
+2012-12-26 18:51:07	--	Topic set by -Server- on Mon, 17 Dec 2012 05:38:01
+2012-12-26 18:51:07	--	Nicks #dev: [@josh]
+2012-12-26 18:51:07	--	Channel #dev: 1 nick (1 op, 0 halfops, 0 voices, 0 normals)
+2012-12-26 18:51:09	--	Mode #dev [+P]
+2012-12-26 18:51:12	--	Mode #dev [-o josh] by josh
+2012-12-26 18:51:22	-->	shawnswa1 (~shawnswa@ip70-176-221-33.ph.ph.cox.net) has joined #dev
+2012-12-26 18:51:43	josh	([5, 6, 7],)
+2012-12-26 18:51:43	josh	2012-12-27 01:39:16 [17928] [ERROR] Error handling request
+2012-12-26 18:51:43	josh	Traceback (most recent call last):
+2012-12-26 18:51:43	josh	  File "/srv/scoutgoals/local/lib/python2.7/site-packages/gunicorn/workers/async.py", line 45, in handle
+2012-12-26 18:51:45	josh	    self.handle_request(listener, req, clien
+2012-12-26 18:54:04	josh	set weechat.look.paste_max_lines?
+2012-12-26 18:54:57	josh	([5, 6, 7],)
+2012-12-26 18:54:57	josh	2012-12-27 01:39:16 [17928] [ERROR] Error handling request
+2012-12-26 18:54:57	josh	Traceback (most recent call last):
+2012-12-26 18:54:57	josh	  File "/srv/scoutgoals/local/lib/python2.7/site-packages/gunicorn/workers/async.py", line 45, in handle
+2012-12-26 18:54:57	josh	    self.handle_request(listener, req, client, addr)
+2012-12-26 18:54:57	josh	  File "/srv/scoutgoals/local/lib/python2.7/site-packages/gunicorn/workers/async.py", line 93, in handle_request
+2012-12-26 18:54:57	josh	    respiter = self.wsgi(environ, resp.start_response)
+2012-12-26 18:54:57	josh	  File "/srv/scoutgoals/local/lib/python2.7/site-packages/flask/app.py", line 1518, in __call__
+2012-12-26 18:54:57	josh	    return self.wsgi_app(environ, start_response)
+2012-12-26 18:54:57	josh	  File "/srv/scoutgoals/local/lib/python2.7/site-packages/flask/app.py", line 1506, in wsgi_app
+2012-12-26 18:54:57	josh	    response = self.make_response(self.handle_exception(e))
+2012-12-26 18:54:57	josh	  File "/srv/scoutgoals/local/lib/python2.7/site-packages/flask/app.py", line 1504, in wsgi_app
+2012-12-26 18:54:57	josh	    response = self.full_dispatch_request()
+2012-12-26 18:54:57	josh	  File "/srv/scoutgoals/local/lib/python2.7/site-packages/flask/app.py", line 1264, in full_dispatch_request
+2012-12-26 18:54:57	josh	    rv = self.handle_user_exception(e)
+2012-12-26 18:54:57	josh	  File "/srv/scoutgoals/local/lib/python2.7/site-packages/flask/app.py", line 1262, in full_dispatch_request
+2012-12-26 18:54:57	josh	    rv = self.dispatch_request()
+2012-12-26 18:54:57	josh	  File "/srv/scoutgoals/local/lib/python2.7/site-packages/flask/app.py", line 1248, in dispatch_request
+2012-12-26 18:54:57	josh	    return self.view_functions[rule.endpoint](**req.view_args)
+2012-12-26 18:54:57	josh	  File "/srv/scoutgoals/local/lib/python2.7/site-packages/flaskext/login.py", line 480, in decorated_view
+2012-12-26 18:54:57	josh	    return fn(*args, **kwargs)
+2012-12-26 18:54:57	josh	  File "/srv/scoutgoals/src/sgweb/views.py", line 558, in scout
+2012-12-26 18:54:57	josh	    requirements = sgweb.scout.next_rank_requirements(scout["scoutid"], [5, 6, 7])
+2012-12-26 18:54:57	josh	  File "/srv/scoutgoals/src/sgweb/scout.py", line 28, in next_rank_requirements
+2012-12-26 18:54:57	josh	    RR.sort_order;""", [tuple(scout_rank_ids[0]), scoutid])
+2012-12-26 18:54:57	josh	  File "/srv/scoutgoals/local/lib/python2.7/site-packages/psycopg2/extras.py", line 222, in execute
+2012-12-26 18:54:57	josh	    return _cursor.execute(self, query, vars)
+2012-12-26 18:54:57	josh	ProgrammingError: relation "scout_progress" does not exist
+2012-12-26 18:54:59	josh	LINE 6:         (select requirementid from scout_progress
+2012-12-26 18:59:38	shawnswa1	select postid, message, replyto, posted from wall_posts where replyto is null
+2012-12-26 18:59:40	shawnswa1	UNION
+2012-12-26 18:59:42	shawnswa1	select postid, message, replyto, posted from wall_posts where replyto
+2012-12-26 18:59:44	shawnswa1	 in (select postid from wall_posts where replyto is null order by posted limit 10)
+2012-12-26 18:59:46	shawnswa1	order by posted
+2012-12-26 19:49:39	-->	github (~github@sh3.rs.github.com) has joined #dev
+2012-12-26 19:49:39	github	[ScoutGoals] sswaner pushed 2 new commits to master: http://git.io/apsIqA
+2012-12-26 19:49:39	github	ScoutGoals/master cc98345 Shawn Swaner: many bug fixes
+2012-12-26 19:49:39	github	ScoutGoals/master ef541ef Shawn Swaner: Merge branch 'master' of github.com:Joshkunz/ScoutGoals
+2012-12-26 19:49:39	<--	github (~github@sh3.rs.github.com) has left #dev (github)
+2012-12-26 19:57:00	-->	github (~github@sh2.rs.github.com) has joined #dev
+2012-12-26 19:57:00	github	[ScoutGoals] sswaner pushed 1 new commit to master: http://git.io/SpGKCA
+2012-12-26 19:57:00	github	ScoutGoals/master fbfcc27 Shawn Swaner: added requirement delete fx
+2012-12-26 19:57:00	<--	github (~github@sh2.rs.github.com) has left #dev (github)
+2012-12-26 20:02:27	-->	github (~github@sh3.rs.github.com) has joined #dev
+2012-12-26 20:02:27	github	[ScoutGoals] Joshkunz pushed 1 new commit to master: http://git.io/07ExoA
+2012-12-26 20:02:27	github	ScoutGoals/master 6c1c042 Josh Kunz: Added private key for the server
+2012-12-26 20:02:27	<--	github (~github@sh3.rs.github.com) has left #dev (github)
+2012-12-26 20:18:50	-->	github (~github@sh3.rs.github.com) has joined #dev
+2012-12-26 20:18:50	github	[ScoutGoals] sswaner pushed 1 new commit to master: http://git.io/q4bXtg
+2012-12-26 20:18:50	github	ScoutGoals/master 0ab4b88 Shawn Swaner: fixed userconfirm
+2012-12-26 20:18:50	<--	github (~github@sh3.rs.github.com) has left #dev (github)
+2012-12-26 20:21:30	-->	github (~github@sh3.rs.github.com) has joined #dev
+2012-12-26 20:21:30	github	[ScoutGoals] sswaner pushed 1 new commit to master: http://git.io/24_OVw
+2012-12-26 20:21:30	github	ScoutGoals/master ac1401d Shawn Swaner: fixed userconfirm again
+2012-12-26 20:21:30	<--	github (~github@sh3.rs.github.com) has left #dev (github)
+2012-12-27 16:13:52	-->	josh (~Joshkunz@ip70-176-221-33.ph.ph.cox.net) has joined #dev
+2012-12-27 16:13:52	--	Topic for #dev is "Devlopment Man!"
+2012-12-27 16:13:52	--	Topic set by -Server- on Mon, 17 Dec 2012 05:38:01
+2012-12-27 16:13:52	--	Nicks #dev: [@josh shawnswa1]
+2012-12-27 16:13:52	--	Channel #dev: 2 nicks (1 op, 0 halfops, 0 voices, 1 normal)
+2012-12-27 16:13:54	--	Mode #dev [+P]
+2012-12-27 16:13:59	@josh	Deop
+2012-12-27 16:14:01	--	Mode #dev [-o josh] by josh
+2012-12-27 18:06:36	shawnswa1	ALTER TABLE account ADD CONSTRAINT uc_account_name UNIQUE (accountname);
+2012-12-27 18:07:48	shawnswa1	ALTER TABLE site_user ADD CONSTRAINT uc_unique_username UNIQUE (username);
+2012-12-27 18:14:47	josh	db.scoutgoals.com
+2012-12-27 18:14:59	josh	is the databse server, don't forget it!
+2012-12-27 19:42:09	josh	We never went out today. We can still go right now it you want?
+2012-12-27 21:49:52	--	irc: disconnected from server
+2012-12-27 21:50:04	-->	josh (~Joshkunz@ip70-176-221-33.ph.ph.cox.net) has joined #dev
+2012-12-27 21:50:04	--	Topic for #dev is "Devlopment Man!"
+2012-12-27 21:50:04	--	Topic set by -Server- on Mon, 17 Dec 2012 05:38:01
+2012-12-27 21:50:04	--	Nicks #dev: [@josh shawnswa1]
+2012-12-27 21:50:04	--	Channel #dev: 2 nicks (1 op, 0 halfops, 0 voices, 1 normal)
+2012-12-27 21:50:06	--	Mode #dev [+P]
+2012-12-28 00:05:14	--	irc: disconnected from server
+2012-12-28 00:05:26	-->	josh (~Joshkunz@ip70-176-221-33.ph.ph.cox.net) has joined #dev
+2012-12-28 00:05:26	--	Topic for #dev is "Devlopment Man!"
+2012-12-28 00:05:26	--	Topic set by -Server- on Mon, 17 Dec 2012 05:38:01
+2012-12-28 00:05:26	--	Nicks #dev: [@josh shawnswa1]
+2012-12-28 00:05:26	--	Channel #dev: 2 nicks (1 op, 0 halfops, 0 voices, 1 normal)
+2012-12-28 00:05:28	--	Mode #dev [+P]
+2012-12-28 12:09:17	-->	github (~github@sh3.rs.github.com) has joined #dev
+2012-12-28 12:09:17	github	[ScoutGoals] Joshkunz pushed 7 new commits to master: http://git.io/gQvnzw
+2012-12-28 12:09:17	github	ScoutGoals/master 091dc9d Josh Kunz: Adding more wall info
+2012-12-28 12:09:17	github	ScoutGoals/master 26b5a6c Josh Kunz: More changes to the url routes
+2012-12-28 12:09:17	github	ScoutGoals/master e0eaf76 Josh Kunz: Made the home page inherit the base template
+2012-12-28 12:09:17	<--	github (~github@sh3.rs.github.com) has left #dev (github)
+2012-12-28 12:20:24	-->	github (~github@sh3.rs.github.com) has joined #dev
+2012-12-28 12:20:24	github	[ScoutGoals] sswaner pushed 5 new commits to master: http://git.io/ud2oqg
+2012-12-28 12:20:24	github	ScoutGoals/master 698c27b Shawn Swaner: Fixed welcome emails and confirm fx
+2012-12-28 12:20:24	github	ScoutGoals/master ad80f7b Shawn Swaner: changed /<id> to be userid driven, added user_user table
+2012-12-28 12:20:24	github	ScoutGoals/master 7a397e8 Shawn Swaner: modified  /scout
+2012-12-28 12:20:24	<--	github (~github@sh3.rs.github.com) has left #dev (github)
+2012-12-28 16:28:40	-->	github (~github@sh2.rs.github.com) has joined #dev
+2012-12-28 16:28:40	github	[ScoutGoals] sswaner pushed 1 new commit to master: http://git.io/up9kCg
+2012-12-28 16:28:40	github	ScoutGoals/master d97029f Shawn Swaner: added fix for unique names.  Removed most print statements
+2012-12-28 16:28:40	<--	github (~github@sh2.rs.github.com) has left #dev (github)
+2012-12-29 23:31:05	--	irc: disconnected from server
+2012-12-29 23:31:22	-->	josh (~Joshkunz@ip70-176-221-33.ph.ph.cox.net) has joined #dev
+2012-12-29 23:31:22	--	Topic for #dev is "Devlopment Man!"
+2012-12-29 23:31:22	--	Topic set by -Server- on Mon, 17 Dec 2012 05:38:01
+2012-12-29 23:31:22	--	Nicks #dev: [@josh shawnswa1]
+2012-12-29 23:31:22	--	Channel #dev: 2 nicks (1 op, 0 halfops, 0 voices, 1 normal)
+2012-12-29 23:31:24	--	Mode #dev [+P]
+2012-12-30 04:57:58	--	irc: disconnected from server
+2012-12-31 04:25:52	--	irc: disconnected from server
+2012-12-31 11:40:49	-->	josh (~Joshkunz@ip70-176-221-33.ph.ph.cox.net) has joined #dev
+2012-12-31 11:40:49	--	Topic for #dev is "Devlopment Man!"
+2012-12-31 11:40:49	--	Topic set by -Server- on Mon, 17 Dec 2012 05:38:01
+2012-12-31 11:40:49	--	Nicks #dev: [@josh shawnswa1]
+2012-12-31 11:40:49	--	Channel #dev: 2 nicks (1 op, 0 halfops, 0 voices, 1 normal)
+2012-12-31 11:40:51	--	Mode #dev [+P]
+2012-12-31 16:40:54	-->	github (~github@sh3.rs.github.com) has joined #dev
+2012-12-31 16:40:54	github	[ScoutGoals] sswaner pushed 1 new commit to master: http://git.io/M9XDFQ
+2012-12-31 16:40:54	github	ScoutGoals/master 92140aa Shawn Swaner: Fixed bug preventing account owners from viewing a users page.
+2012-12-31 16:40:55	<--	github (~github@sh3.rs.github.com) has left #dev (github)
+2012-12-31 17:39:54	-->	github (~github@sh2.rs.github.com) has joined #dev
+2012-12-31 17:39:54	github	[ScoutGoals] sswaner pushed 2 new commits to master: http://git.io/f3-p6g
+2012-12-31 17:39:54	github	ScoutGoals/master bd0a88e Shawn Swaner: Admin pages
+2012-12-31 17:39:54	github	ScoutGoals/master 7d99217 Shawn Swaner: Merge branch 'master' into scoutfx...
+2012-12-31 17:39:54	<--	github (~github@sh2.rs.github.com) has left #dev (github)
+2012-12-31 18:02:45	<--	shawnswa1 (~shawnswa@ip70-176-221-33.ph.ph.cox.net) has quit (Ping timeout: 20 seconds)
+2012-12-31 18:03:13	-->	shawnswa1 (~shawnswa@ip70-176-221-33.ph.ph.cox.net) has joined #dev
+2012-12-31 18:29:48	-->	github (~github@sh2.rs.github.com) has joined #dev
+2012-12-31 18:29:48	github	[ScoutGoals] Joshkunz pushed 4 new commits to master: http://git.io/wKRpmQ
+2012-12-31 18:29:48	github	ScoutGoals/master 47eec6e Josh Kunz: Fixed Forbidden bug and bug that always returned the current user's...
+2012-12-31 18:29:49	github	ScoutGoals/master 28e878d Josh Kunz: Fixed the link's from the scout's pages, and latent userID to userid...
+2012-12-31 18:29:49	github	ScoutGoals/master 6852a61 Josh Kunz: OOP-ified the wall
+2012-12-31 18:29:49	<--	github (~github@sh2.rs.github.com) has left #dev (github)
+2012-12-31 18:36:01	-->	github (~github@sh3.rs.github.com) has joined #dev
+2012-12-31 18:36:01	github	[ScoutGoals] Joshkunz pushed 1 new commit to master: http://git.io/onlB_A
+2012-12-31 18:36:01	github	ScoutGoals/master 51a42eb Josh Kunz: Quick fix to restore usernames
+2012-12-31 18:36:01	<--	github (~github@sh3.rs.github.com) has left #dev (github)
+2012-12-31 21:31:48	-->	github (~github@sh3.rs.github.com) has joined #dev
+2012-12-31 21:31:48	github	[ScoutGoals] Joshkunz pushed 2 new commits to master: http://git.io/M0OeZQ
+2012-12-31 21:31:48	github	ScoutGoals/master 0b90867 Josh Kunz: Fixed imports for flask 0.9
+2012-12-31 21:31:48	github	ScoutGoals/master bc8106c Josh Kunz: updated package list
+2012-12-31 21:31:48	<--	github (~github@sh3.rs.github.com) has left #dev (github)
+2012-12-31 21:49:27	-->	github (~github@sh2.rs.github.com) has joined #dev
+2012-12-31 21:49:27	github	[ScoutGoals] Joshkunz pushed 1 new commit to master: http://git.io/M9qRYA
+2012-12-31 21:49:27	github	ScoutGoals/master 01a1fa1 Josh Kunz: Added scale command to fabfile and fixed a bug causing the app to not...
+2012-12-31 21:49:28	<--	github (~github@sh2.rs.github.com) has left #dev (github)
+2012-12-31 22:15:17	-->	github (~github@sh3.rs.github.com) has joined #dev
+2012-12-31 22:15:17	github	[ScoutGoals] Joshkunz pushed 2 new commits to master: http://git.io/sMGKsQ
+2012-12-31 22:15:17	github	ScoutGoals/master 40cda37 Josh Kunz: Changed wall userid fetching
+2012-12-31 22:15:17	github	ScoutGoals/master 2af4c00 Josh Kunz: Fixed latent OOP-conversion bugs
+2012-12-31 22:15:17	<--	github (~github@sh3.rs.github.com) has left #dev (github)
+2013-01-01 00:18:00	-->	github (~github@sh3.rs.github.com) has joined #dev
+2013-01-01 00:18:00	github	[ScoutGoals] sswaner pushed 2 new commits to master: http://git.io/et3Ubg
+2013-01-01 00:18:00	github	ScoutGoals/master 19dadeb Shawn Swaner: fixed username related bugs
+2013-01-01 00:18:00	github	ScoutGoals/master 825bbba Shawn Swaner: Merge branch 'master' of github.com:Joshkunz/ScoutGoals...
+2013-01-01 00:18:00	<--	github (~github@sh3.rs.github.com) has left #dev (github)
+2013-01-01 00:29:27	-->	github (~github@sh2.rs.github.com) has joined #dev
+2013-01-01 00:29:27	github	[ScoutGoals] sswaner pushed 11 new commits to master: http://git.io/1LgG0w
+2013-01-01 00:29:27	github	ScoutGoals/master 4cb2fa3 Josh Kunz: Fixed Forbidden bug and bug that always returned the current user's...
+2013-01-01 00:29:28	github	ScoutGoals/master 76997eb Josh Kunz: Fixed the link's from the scout's pages, and latent userID to userid...
+2013-01-01 00:29:28	github	ScoutGoals/master cb11806 Josh Kunz: OOP-ified the wall
+2013-01-01 00:29:28	<--	github (~github@sh2.rs.github.com) has left #dev (github)
+2013-01-01 09:10:07	-->	github (~github@sh2.rs.github.com) has joined #dev
+2013-01-01 09:10:07	github	[ScoutGoals] sswaner pushed 1 new commit to master: http://git.io/tHhwNw
+2013-01-01 09:10:07	github	ScoutGoals/master 47f4fc3 Shawn Swaner: One more adjustment to add scout
+2013-01-01 09:10:07	<--	github (~github@sh2.rs.github.com) has left #dev (github)
+2013-01-01 15:51:30	-->	github (~github@sh3.rs.github.com) has joined #dev
+2013-01-01 15:51:30	github	[ScoutGoals] Joshkunz pushed 7 new commits to master: http://git.io/_cG7XA
+2013-01-01 15:51:31	github	ScoutGoals/master 395bd0d Josh Kunz: removed old files that are backed up in src control
+2013-01-01 15:51:31	github	ScoutGoals/master b3f6d3f Josh Kunz: Added wall_posts and files tables to the deploy script.
+2013-01-01 15:51:31	github	ScoutGoals/master 2572a6c Josh Kunz: Added create_wall_post to added wall posts programatically.
+2013-01-01 15:51:31	<--	github (~github@sh3.rs.github.com) has left #dev (github)
+2013-01-01 15:56:21	-->	github (~github@sh3.rs.github.com) has joined #dev
+2013-01-01 15:56:21	github	[ScoutGoals] Joshkunz pushed 1 new commit to master: http://git.io/rrprgA
+2013-01-01 15:56:21	github	ScoutGoals/master dc8d849 Josh Kunz: Fixed config file
+2013-01-01 15:56:21	<--	github (~github@sh3.rs.github.com) has left #dev (github)
+2013-01-01 16:14:58	-->	github (~github@sh3.rs.github.com) has joined #dev
+2013-01-01 16:14:58	github	[ScoutGoals] Joshkunz pushed 1 new commit to master: http://git.io/Utbh3Q
+2013-01-01 16:14:58	github	ScoutGoals/master e36b820 Josh Kunz: Changed max upload size handling to nginx config
+2013-01-01 16:14:58	<--	github (~github@sh3.rs.github.com) has left #dev (github)
+2013-01-01 16:21:18	-->	github (~github@sh3.rs.github.com) has joined #dev
+2013-01-01 16:21:18	github	[ScoutGoals] Joshkunz pushed 3 new commits to master: http://git.io/HxwqvQ
+2013-01-01 16:21:18	github	ScoutGoals/master 82fceeb Josh Kunz: Fixed fabfile to update nginx config
+2013-01-01 16:21:18	github	ScoutGoals/master 22ed5ef Josh Kunz: fixed nginx config path
+2013-01-01 16:21:18	github	ScoutGoals/master 5772fbd Josh Kunz: fixed nginx config url matching
+2013-01-01 16:21:18	<--	github (~github@sh3.rs.github.com) has left #dev (github)
