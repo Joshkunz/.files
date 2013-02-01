@@ -1,7 +1,7 @@
 .PHONY: unlink kill link backup
 PWD := $(shell pwd)
 
-dotfiles = ~/.bashrc ~/.gitignore ~/.hgrc ~/.todo \
+dotfiles = ~/.bashrc ~/.gitignore ~/.hgrc ~/.todo ~/.gitconfig \
 		   ~/.vim ~/.vimrc ~/.weechat ~/.muttrc ~/.xmonad
 
 link: $(dotfiles)
@@ -9,8 +9,8 @@ link: $(dotfiles)
 ~/.bashrc: ./.bashrc
 	ln -s $(PWD)/.bashrc ~/.bashrc
 
-~/.gitignore: ./.gitignore
-	ln -s $(PWD)/.gitignore ~/.gitignore
+~/.gitconfig: ./.gitconfig
+	ln -s $(PWD)/.gitconfig ~/.gitconfig
 
 ~/.hgrc: ./.hgrc
 	ln -s $(PWD)/.hgrc ~/.hgrc
