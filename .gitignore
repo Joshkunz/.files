@@ -3,3 +3,9 @@
 *.log
 bak*
 sen*
+
+# XMonad exculudes
+xmonad.errors
+xmonad.hi
+xmonad.o
+xmonad-x86_64-linux
