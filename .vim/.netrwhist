@@ -1,7 +1,8 @@
 let g:netrw_dirhistmax  =10
-let g:netrw_dirhist_cnt =5
-let g:netrw_dirhist_1='/home/josh/code/checklister/src/Checklister'
-let g:netrw_dirhist_2='/home/josh/code/checklister/src/Checklister/routes'
-let g:netrw_dirhist_3='/home/josh/code/checklister/src/web/coffee'
-let g:netrw_dirhist_4='/home/josh/.xmonad'
-let g:netrw_dirhist_5='/home/josh/dotfiles'
+let g:netrw_dirhist_cnt =6
+let g:netrw_dirhist_1='/home/josh/documents/school'
+let g:netrw_dirhist_2='/home/josh/documents/school/fall-2012'
+let g:netrw_dirhist_3='/home/josh/documents/school/fall-2012/cs3810'
+let g:netrw_dirhist_4='/home/josh/documents/school/fall-2012/cs3810/assignment5'
+let g:netrw_dirhist_5='/usr/include/x86_64-linux-gnu/sys'
+let g:netrw_dirhist_6='/home/josh/dotfiles/.config'

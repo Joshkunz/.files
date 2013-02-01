@@ -49,19 +49,17 @@ filetype plugin indent on
 
 augroup rcCmd
 	autocmd!
-    " Text spell checking
     autocmd BufWinEnter *.cc setl ts=2 sw=2
     autocmd BufWinEnter *.h setl ts=2 sw=2
+    " Text spell checking
     autocmd BufWinEnter *.text setl spell
     autocmd BufWinEnter *.txt setl spell
-    " LaTeX spell checking
-    autocmd BufWinEnter *.tex setl spell syn=tex
     " Change .md filetype to markdown by default
     autocmd BufWinEnter *.md setl syn=markdown
-    " Markdown spell checking
-    autocmd Filetype markdown setl spell
     autocmd FileType gitcommit setl spell
-	" Python Color Column
+    autocmd FileType markdown setl spell colorcolumn=80
+    autocmd BufWinEnter *.tex setl noautoindent spell colorcolumn=80 syntax=tex
+    autocmd BufWinEnter *.md setl syn=markdown
 	autocmd FileType python setl colorcolumn=80
 	" Python highlight over 84 char softlimit
 	autocmd BufWinEnter *.py let w:m2=matchadd('ErrorMsg', '\%>84v.\+', -1)
