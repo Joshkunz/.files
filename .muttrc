@@ -1,0 +1,47 @@
+# Main Maildir Stuff
+set mbox_type=Maildir
+set folder=$HOME/mail/
+set spoolfile=+/inbox
+mailboxes =inbox =keep =archive
+set record="+.sent"
+set postponed="+.draft"
+
+# Main Smtp stuff
+set sendmail="msmtp"
+set from="joshkunz@me.com"
+
+set sort=reverse-date
+set editor="vim"
+set realname="Josh Kunz"
+
+# Key bindings
+bind pager j next-line
+bind pager J next-undeleted
+bind pager k previous-line
+bind pager K previous-undeleted
+
+# Advanced Options
+set header_cache=~/.mutt/hcache
+#mutt says I shoulden't do this
+unset sig_dashes
+#skip setting the subject for replies
+set fast_reply
+#include a copy of the message in replies
+set include=yes
+#forward messages in a different part
+set mime_forward=ask-no
+#as per the debian documentation
+set mixmaster="mixmaster-filter"
+#Show realnames of aliases
+set reverse_alias
+
+# Main Imap Stuff
+#set connect_timeout=25
+#set imap_user="joshkunz@me.com"
+#set folder="imaps://imap.mail.me.com"
+#set spoolfile=+INBOX
+#mailboxes =Accounts =Save =Archive =Notes
+#set record=+Sent
+#set postponed=+Drafts
+#set imap_idle
+

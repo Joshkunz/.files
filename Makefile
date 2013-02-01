@@ -1,18 +1,13 @@
 .PHONY: unlink kill link backup
 PWD := $(shell pwd)
 
-dotfiles = ~/.bashrc ~/.gitconfig ~/.gitignore ~/.hgrc ~/.todo ~/.vim ~/.vimrc ~/.weechat
+dotfiles = ~/.bashrc ~/.gitignore ~/.hgrc ~/.todo \
+		   ~/.vim ~/.vimrc ~/.weechat ~/.muttrc ~/.xmonad
 
 link: $(dotfiles)
 
 ~/.bashrc: ./.bashrc
 	ln -s $(PWD)/.bashrc ~/.bashrc
-
-~/.git: ./.git
-	ln -s $(PWD)/.git ~/.git
-
-~/.gitconfig: ./.gitconfig
-	ln -s $(PWD)/.gitconfig ~/.gitconfig
 
 ~/.gitignore: ./.gitignore
 	ln -s $(PWD)/.gitignore ~/.gitignore
@@ -32,8 +27,11 @@ link: $(dotfiles)
 ~/.weechat: ./.weechat
 	ln -s $(PWD)/.weechat ~/.weechat
 
-~/Makefile: ./Makefile
-	ln -s $(PWD)/Makefile ~/Makefile
+~/.muttrc: ./.muttrc
+	ln -s $(PWD)/.muttrc ~/.muttrc
+
+~/.xmonad: ./.xmonad
+	ln -s $(PWD)/.xmonad ~/.xmonad
 
 unlink:
 	for file in $(dotfiles); do if test -L \$file; then rm ~/\$file; fi; done;
@@ -43,4 +41,4 @@ kill:
 
 backup:
 	if [ ! -d .backup ]; then mkdir .backup; fi
-	find ~ -maxdepth 1 -type f -or -type d -name '.*' |     xargs -I % cp -rv % /Users/Joshkunz/code/dotfiles/.backup
+	find ~ -maxdepth 1 -type f -or -type d -name '.*' | xargs -I % cp -rv % $(PWD)/.backup
