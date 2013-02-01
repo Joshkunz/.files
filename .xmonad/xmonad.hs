@@ -4,4 +4,6 @@ import XMonad.Hooks.ManageDocks
 import System.IO
 
 main = do
-    xmonad $ defaultConfig
+    xmonad $ defaultConfig {
+        layoutHook = avoidStruts $ layoutHook defaultConfig
+    }
