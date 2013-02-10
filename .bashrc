@@ -18,12 +18,15 @@ PS1="[\e[0;36m\#\e[m] \T \e[1;31m\u\e[m:\w\n\$ "
 
 ##  ALIASES  ##
 
-alias ls='ls --color -GFh'
+alias ls='ls -GFh'
 alias la='ls -a'
 alias ll='ls -la'
 
 alias less='less -R'
 alias grep='grep --color'
+
+alias weechat='weechat-curses'
+alias irc='weechat'
 
 ##  FUNCTIONS   ##
 
