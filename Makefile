@@ -2,12 +2,15 @@
 PWD := $(shell pwd)
 
 dotfiles = ~/.bashrc ~/.gitignore ~/.hgrc ~/.todo ~/.gitconfig \
-		   ~/.vim ~/.vimrc ~/.weechat ~/.muttrc ~/.xmonad
+		   ~/.vim ~/.vimrc ~/.weechat ~/.muttrc ~/.xmonad ~/.Xresources
 
 link: $(dotfiles)
 
 ~/.bashrc: ./.bashrc
 	ln -s $(PWD)/.bashrc ~/.bashrc
+
+~/.Xresources: ./.Xresources
+	ln -s $(PWD)/.Xresources ~/.Xresources
 
 ~/.gitconfig: ./.gitconfig
 	ln -s $(PWD)/.gitconfig ~/.gitconfig
