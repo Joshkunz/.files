@@ -3,6 +3,7 @@
 *.log
 bak*
 sen*
+irc.conf
 
 # XMonad exculudes
 xmonad.errors
