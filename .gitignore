@@ -4,6 +4,7 @@
 bak*
 sen*
 irc.conf
+.vim/.netrwhist
 
 # XMonad exculudes
 xmonad.errors
