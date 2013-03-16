@@ -1,10 +1,10 @@
 # Main Maildir Stuff
-#set mbox_type=Maildir
-#set folder=$HOME/mail/
-#set spoolfile=+/inbox
-#mailboxes =inbox =keep =archive
-#set record="+.sent"
-#set postponed="+.draft"
+set mbox_type=Maildir
+set folder=$HOME/mail/
+set spoolfile=+/inbox
+mailboxes =inbox =keep =archive
+set record="+.sent"
+set postponed="+.draft"
 
 # Main Smtp stuff
 set sendmail="msmtp"
@@ -31,6 +31,7 @@ set include=yes
 #forward messages in a different part
 set mime_forward=ask-no
 #as per the debian documentation
+<<<<<<< HEAD
 #set mixmaster="mixmaster-filter"
 #Show realnames of aliases
 set reverse_alias
@@ -45,6 +46,17 @@ set folder="imaps://imap.mail.me.com:993/"
 #mailboxes =INBOX
 #set spoolfile="+INBOX"
 
+=======
+set mixmaster="mixmaster-filter"
+#Show realnames of aliases
+set reverse_alias
+
+# Main Imap Stuff
+#set connect_timeout=25
+#set imap_user="joshkunz@me.com"
+#set folder="imaps://imap.mail.me.com"
+#set spoolfile=+INBOX
+>>>>>>> d07fac2921e61276e8200269a55fe68af7f50e00
 #mailboxes =Accounts =Save =Archive =Notes
 #set record=+Sent
 #set postponed=+Drafts

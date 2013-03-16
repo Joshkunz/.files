@@ -39,4 +39,3 @@ alias mpc="mpc -f $MPC_FMT"
 function psearch {
     echo $PATH | tr ':' '\0' | xargs -0 ls | grep -Ei $1
 }
-
