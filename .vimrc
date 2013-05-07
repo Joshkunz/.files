@@ -1,6 +1,9 @@
 set nocompatible
 syntax enable
 
+" Make backspace work like normal
+set backspace=indent,eol,start
+
 "read file changes
 set autoread
 
