@@ -27,10 +27,10 @@ table.contains = function (t, value)
 end
 
 function handle_git ()
-    --local new_git_commits = icloud.INBOX : sent_since("14-May-2013") : match_subject("git commit:")
     local new_git_commits = icloud.INBOX : 
         is_unseen() : 
-        contain_to("commits@flux.utah.edu") :
+--        sent_since("14-May-2013") :
+--        contain_to("flux.utah.edu") :
         match_subject("git commit:")
 
     local boxes = {}
