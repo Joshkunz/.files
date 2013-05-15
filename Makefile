@@ -2,9 +2,13 @@
 PWD := $(shell pwd)
 
 dotfiles = ~/.bashrc ~/.gitignore ~/.hgrc ~/.todo ~/.gitconfig \
-		   ~/.vim ~/.vimrc ~/.weechat ~/.muttrc ~/.xmonad ~/.Xresources
+		   ~/.vim ~/.vimrc ~/.weechat ~/.muttrc ~/.xmonad ~/.Xresources \
+		   ~/.imapfilter
 
 link: $(dotfiles)
+
+~/.imapfilter: ./.imapfilter
+	ln -s $(PWD)/.imapfilter ~/.imapfilter
 
 ~/.bashrc: ./.bashrc
 	ln -s $(PWD)/.bashrc ~/.bashrc

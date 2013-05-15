@@ -1,3 +1,6 @@
 [user]
 	name = Josh Kunz
 	email = joshkunz@me.com
+
+[color]
+    ui = auto
