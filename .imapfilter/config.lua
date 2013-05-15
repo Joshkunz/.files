@@ -36,7 +36,6 @@ function handle_git ()
     local boxes = {}
     -- Sort the mail in to folders by repository
     for _, message in ipairs(new_git_commits) do
-        print ("looking through messages...")
         -- Get the uid of the message
         local mailbox, uid = table.unpack(message)
         -- Get the repository this message pertains to
@@ -53,7 +52,6 @@ function handle_git ()
 
     -- Move all of the mail to it's proper folder 
     for git_repo, mail_table in pairs(boxes) do
-        print ("Editing messages")
         local repo_folder = GIT_FOLDER .. "/" .. git_repo
         -- Make sure the folder for this repository exists
         icloud : create_mailbox(repo_folder)
@@ -79,7 +77,6 @@ end
 while true do
     handle_all()
     -- Wait for new mail
-    print ("Idling...")
     did_idle = icloud.INBOX : enter_idle()
 
     -- If we can't idle, quit
