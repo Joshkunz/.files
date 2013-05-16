@@ -42,12 +42,15 @@ function handle_git ()
         _, _, git_repo = mailbox[uid] : 
                          fetch_field("Subject") : 
                          find("%[([%a%d-/]*)%]")
-        -- Make sure the key is a table
-        if not boxes[git_repo] then
-            boxes[git_repo] = {}
+        -- Make sure we actually have a repo
+        if git_repo then
+            -- Make sure the key is a table
+            if not boxes[git_repo] then
+                boxes[git_repo] = {}
+            end
+            -- Add this piece of mail
+            table.insert(boxes[git_repo], {mailbox, uid})
         end
-        -- Add this piece of mail
-        table.insert(boxes[git_repo], {mailbox, uid})
     end
 
     -- Move all of the mail to it's proper folder 

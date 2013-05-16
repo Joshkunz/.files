@@ -10,7 +10,11 @@
 set sendmail="msmtp"
 set from="joshkunz@me.com"
 
-set sort=reverse-date
+# Sort messages into threads
+set sort=threads
+# Sort threads by reverse date (most recent at the top)
+set sort_aux=reverse-date
+
 set editor="vim"
 set realname="Josh Kunz"
 
@@ -20,8 +24,10 @@ bind pager J next-undeleted
 bind pager k previous-line
 bind pager K previous-undeleted
 
+bind index c collapse-thread
+
 # Advanced Options
-set header_cache=~/.mutt/hcache
+#set header_cache=~/.mutt/hcache
 #mutt says I shoulden't do this
 unset sig_dashes
 #skip setting the subject for replies
@@ -32,22 +38,34 @@ set include=yes
 set mime_forward=ask-no
 #as per the debian documentation
 
+# Format of the message index
+# "Message Number, Status flags, Date, Recipent Name, number of hidden messages, subject
+set index_format="%4C %Z %{%b %d} %-15.15L %2M %s"
+
+# Remove non-useful headers
+set weed
+
 #set mixmaster="mixmaster-filter"
 #Show realnames of aliases
 set reverse_alias
 
+# Use the system's cache of certificates
+#set ssl_usesystemcerts=yes
+#set ssl_ca_certificates_file="/usr/local/share/ca-bundle.crt"
+
 # Force ssl connections
+#set ssl_force_tls=yes
+set imap_force_ssl=yes
 set ssl_use_sslv3=yes
 
 set imap_user="joshkunz@me.com"
-set imap_login="joshkunz@me.com"
 set folder="imaps://imap.mail.me.com:993"
 
-mailboxes =INBOX
+mailboxes =INBOX =Sent =Drafts =Save =Archive =Git
 
 ## Main Imap Stuff
 set connect_timeout=30
 set spoolfile=+INBOX
 set record=+Sent
 set postponed=+Drafts
-set imap_idle=yes
+#set imap_idle=yes
