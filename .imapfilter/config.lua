@@ -14,6 +14,7 @@ icloud = IMAP {
 WATCH_REPOS = { "flowops" }
 -- Top level folder to store git emails in
 GIT_FOLDER = "Git"
+REPO_MATCHER = "%[([^%c%]]*)%]"
 
 -- Make sure the mailbox exists
 icloud : create_mailbox(GIT_FOLDER)
@@ -41,7 +42,7 @@ function handle_git ()
         -- Get the repository this message pertains to
         _, _, git_repo = mailbox[uid] : 
                          fetch_field("Subject") : 
-                         find("%[([%a%d-/]*)%]")
+                         find(REPO_MATCHER)
         -- Make sure we actually have a repo
         if git_repo then
             -- Make sure the key is a table
