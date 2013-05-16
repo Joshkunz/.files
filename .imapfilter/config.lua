@@ -13,7 +13,7 @@ icloud = IMAP {
 -- Repositories to not mark as read
 WATCH_REPOS = { "flowops" }
 -- Top level folder to store git emails in
-GIT_FOLDER = "Git"
+GIT_FOLDER = "Repos"
 REPO_MATCHER = "%[([^%c%]]*)%]"
 
 -- Make sure the mailbox exists
