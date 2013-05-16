@@ -27,12 +27,13 @@ table.contains = function (t, value)
     return false
 end
 
-function handle_git ()
+function handle_git () -- (or mercurial)
     local new_git_commits = icloud.INBOX : 
         is_unseen() : 
 --        sent_since("14-May-2013") :
 --        contain_to("flux.utah.edu") :
-        match_subject("git commit:")
+        --Also match mercurial commits
+        match_subject("(git)|(hg) commit:")
 
     local boxes = {}
     -- Sort the mail in to folders by repository
