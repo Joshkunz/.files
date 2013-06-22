@@ -49,8 +49,13 @@ filetype plugin indent on
 
 augroup rcCmd
 	autocmd!
-    autocmd BufWinEnter *.cc setl ts=2 sw=2
-    autocmd BufWinEnter *.h setl ts=2 sw=2
+    " More 80 column stuff
+    autocmd BufWinEnter *.c setl colorcolumn=80
+    autocmd BufWinEnter *.cc setl colorcolumn=80
+    autocmd BufWinEnter *.h setl colorcolumn=80
+
+    "autocmd BufWinEnter *.cc setl ts=2 sw=2
+    "autocmd BufWinEnter *.h setl ts=2 sw=2
     " Text spell checking
     autocmd BufWinEnter *.text setl spell
     autocmd BufWinEnter *.txt setl spell

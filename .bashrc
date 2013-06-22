@@ -17,7 +17,7 @@ LANG="en_US.UTF-8"
 PS1="[\e[0;36m\#\e[m] \T \e[1;31m\u\e[m:\w\n\$ "
 
 ## Song Formatting ##
-MPC_FMT="'[[%artist% - ]%title%[ (on %album%)]]|[%file%]'"
+export MPC_FMT="[[ %position%. ][%artist% - ]%title%[ (on %album%)]]|[%file%]"
 
 ##  ALIASES  ##
 
@@ -31,7 +31,7 @@ alias grep='grep --color'
 alias weechat='weechat-curses'
 alias irc='weechat'
 
-alias mpc="mpc -f $MPC_FMT"
+alias mpc="mpc -f \"$MPC_FMT\""
 
 ##  FUNCTIONS   ##
 
