@@ -1,6 +1,9 @@
 set nocompatible
 syntax enable
 
+" Make backspace work like normal
+set backspace=indent,eol,start
+
 "read file changes
 set autoread
 
@@ -53,9 +56,6 @@ augroup rcCmd
     autocmd BufWinEnter *.c setl colorcolumn=80
     autocmd BufWinEnter *.cc setl colorcolumn=80
     autocmd BufWinEnter *.h setl colorcolumn=80
-
-    "autocmd BufWinEnter *.cc setl ts=2 sw=2
-    "autocmd BufWinEnter *.h setl ts=2 sw=2
     " Text spell checking
     autocmd BufWinEnter *.text setl spell
     autocmd BufWinEnter *.txt setl spell
@@ -68,4 +68,6 @@ augroup rcCmd
 	autocmd FileType python setl colorcolumn=80
 	" Python highlight over 84 char softlimit
 	autocmd BufWinEnter *.py let w:m2=matchadd('ErrorMsg', '\%>84v.\+', -1)
+    " Drools Hilighting
+    autocmd BufWinEnter *.drl setl syn=drools
 augroup END
