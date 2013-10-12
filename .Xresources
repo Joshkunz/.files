@@ -69,3 +69,8 @@
 *color14:                 S_base1
 *color15:                 S_base3
 
+! Urxvt config Options
+
+URxvt.font: xft:Droid Sans Mono:size-14
+URxvt.termName: xterm-256color
+URxvt.letterSpace: -1
