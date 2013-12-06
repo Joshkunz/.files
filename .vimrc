@@ -118,6 +118,12 @@ augroup rcCmd
     autocmd BufWinEnter *.h setl colorcolumn=80
     autocmd BufWinEnter *.go setl syn=go
 
+    " More 80 column stuff
+    autocmd BufWinEnter *.c setl colorcolumn=80
+    autocmd BufWinEnter *.cc setl colorcolumn=80
+    autocmd BufWinEnter *.h setl colorcolumn=80
+    autocmd BufWinEnter *.go setl syn=go
+
     autocmd FileType gitcommit setl spell
     autocmd FileType Makefile setl noexpandtab
 
