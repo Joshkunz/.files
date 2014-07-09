@@ -16,12 +16,7 @@ if [ `uname -s` = "Darwin" ]; then
 fi
 
 ## DEFAULTS ##
-<<<<<<< HEAD
 export EDITOR=vim
-=======
-EDITOR=vim
-export EDITOR
->>>>>>> ddb0613ff39474c4b18426bd37ced28368457b45
 
 LANG="en_US.UTF-8"
 PS1="[\e[0;36m\#\e[m] \T (\e[0;37m\H\e[m) \e[1;31m\u\e[m:\w\n\$ "
