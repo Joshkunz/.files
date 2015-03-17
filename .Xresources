@@ -44,6 +44,10 @@
 !
 ! URxvt*background:            S_base03
 
+dzen2.background:         black
+dzen2.foreground:         grey70
+dzen2.font:               -*-fized-*-r-*-*-14-*-*-*-*-*-*-*
+
 *background:              S_base03
 *foreground:              S_base0
 *fading:                  40

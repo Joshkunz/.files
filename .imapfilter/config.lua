@@ -11,13 +11,17 @@ icloud = IMAP {
 }
 
 -- Repositories to not mark as read
-WATCH_REPOS = { "flowops" }
+WATCH_REPOS = { "flowops", "openaccess", "wafer", "openaccessman",
+                "renquinn/atc-14" }
+-- Name of the folder to store important commits in
+IMPORTANT_FOLDER = "_commits"
 -- Top level folder to store git emails in
 GIT_FOLDER = "Repos"
 REPO_MATCHER = "%[([^%c%]]*)%]"
 
 -- Make sure the mailbox exists
 icloud : create_mailbox(GIT_FOLDER)
+icloud : create_mailbox(IMPORTANT_FOLDER)
 
 table.contains = function (t, value)
     for _, v in pairs(t) do
@@ -30,10 +34,10 @@ end
 function handle_git () -- (or mercurial)
     local new_git_commits = icloud.INBOX : 
         is_unseen() : 
---        sent_since("14-May-2013") :
+        --sent_since("01-Jan-2014") :
 --        contain_to("flux.utah.edu") :
         --Also match mercurial commits
-        match_subject("(git)|(hg) commit:")
+        match_subject("^(git)|(hg) commit:")
 
     local boxes = {}
     -- Sort the mail in to folders by repository
@@ -63,13 +67,13 @@ function handle_git () -- (or mercurial)
         -- Move the messages there
         local table_set = Set(mail_table)
 
-        -- If we're not watching this repository...
-        if not table.contains(WATCH_REPOS, git_repo) then
-            -- Mark the messages as seen
-            table_set : mark_seen()
+        if table.contains(WATCH_REPOS, git_repo) then
+            table_set : copy_messages(icloud[IMPORTANT_FOLDER])
         end
 
-        -- Move the messages to the proper folder
+        -- Mark the non-copied messages as seen.
+        table_set : mark_seen()
+        -- Always move the messages to the proper folder
         table_set : move_messages(icloud[repo_folder])
     end
 end
@@ -86,7 +90,7 @@ while true do
 
     -- If we can't idle, quit
     if not did_idle then
-        print ("Can't idle, exiting...")
-        break
+        print ("Couldn't IDLE, attempting check-status...")
+        icloud.INBOX : check_status()
     end
 end

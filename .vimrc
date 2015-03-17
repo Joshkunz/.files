@@ -88,6 +88,12 @@ augroup rcCmd
     autocmd BufWinEnter *.tex setl noautoindent spell syntax=tex
     autocmd BufWinEnter *.gnu setl syn=gnuplot
 
+    " More 80 column stuff
+    autocmd BufWinEnter *.c setl colorcolumn=80
+    autocmd BufWinEnter *.cc setl colorcolumn=80
+    autocmd BufWinEnter *.h setl colorcolumn=80
+    autocmd BufWinEnter *.go setl syn=go
+
     autocmd FileType gitcommit setl spell
     autocmd FileType Makefile setl noexpandtab
 

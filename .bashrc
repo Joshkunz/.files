@@ -17,15 +17,16 @@ fi
 
 ## DEFAULTS ##
 export EDITOR=vim
+
 LANG="en_US.UTF-8"
-PS1="[\e[0;36m\#\e[m] \T \e[1;31m\u\e[m:\w\n\$ "
+PS1="[\e[0;36m\#\e[m] \T (\e[0;37m\H\e[m) \e[1;31m\u\e[m:\w\n\$ "
 
 ## Song Formatting ##
 export MPC_FMT=" [%position%.] [[%artist% - ]%title%[ ([%track% ]on %album%)]|[%file%]"
 
 ##  ALIASES  ##
 
-alias ls='ls -GFh'
+alias ls='ls -GFh --color'
 alias la='ls -a'
 alias ll='ls -la'
 
@@ -36,6 +37,8 @@ alias grep='grep --color'
 
 alias weechat='weechat-curses'
 alias irc='weechat'
+
+alias sudo='sudo -E'
 
 alias mpc="mpc -f \"$MPC_FMT\""
 alias vbox="vboxmanage"

@@ -40,6 +40,15 @@ link: $(dotfiles)
 ~/.xmonad: ./.xmonad
 	ln -s $(PWD)/.xmonad ~/.xmonad
 
+~/.config/:
+	mkdir $@
+
+~/.config/beets/: ~/.config/
+	mkdir $@
+
+~/.config/beets/config.yaml: ./beets/config.yaml ~/.config/beets/
+	ln -s $(PWD)/beets/config.yaml $@
+
 unlink:
 	for file in $(dotfiles); do if test -L \$file; then rm ~/\$file; fi; done;
 
