@@ -1,6 +1,21 @@
 set nocompatible
 syntax enable
 
+" Helper functions
+function! MakeBright()
+    set background=light
+    colorscheme default
+endfunction
+
+function! MakeDark()
+    set background=dark
+    colorscheme solarized
+endfunction
+
+function! TrimWhiteSpace()
+    %s/\s\+$//e
+endfunction
+
 " Make backspace work like normal
 set backspace=indent,eol,start
 
@@ -17,21 +32,22 @@ set ruler
 set modeline
 set modelines=1
 
-set backupdir=.backup,~/backup/vim,.
+set backup
+set backupdir=~/.backup/vim
 
 " Maybe
-" set cursorline 
+set cursorline 
 " set cursorbind
-" set showmatch
+set showmatch
 
 "Add Pathogen
 call pathogen#infect()
 
-set background=dark
+"call MakeBright()
+call MakeDark()
 if has('gui_running')
 	set background=light
 endif
-colorscheme solarized
 
 "Color Column
 set colorcolumn=80
@@ -55,24 +71,33 @@ set expandtab
 
 filetype plugin indent on
 
-"Over 84, highlight red
-"au BufAdd * let w:m2=matchadd('ErrorMsg', '\%>84v.\+', -1)
+" For pandoc syn plugin
+let g:pandoc_no_folding = 1
 
 augroup rcCmd
 	autocmd!
     " Common no-extension text-files
     autocmd BufRead *{README,readme,LICENSE,license,INSTALL,install} setl spell
+    autocmd BufRead *.go set syn=go
     " Text spell checking
     autocmd BufRead *.{text,txt} setl spell
+    autocmd BufRead *.text setl syn=text
     " Change .md filetype to markdown by default
-    autocmd BufRead *.{md,mkd,markdown} setl syn=markdown spell
-    autocmd BufRead *.tex setl noautoindent spell syntax=tex
+    autocmd BufRead *.{md,mkd,markdown} setl spell
+    autocmd BufWinEnter *.{md,mkd,markdown} setl spell
+    autocmd BufWinEnter *.tex setl noautoindent spell syntax=tex
+    autocmd BufWinEnter *.gnu setl syn=gnuplot
 
     autocmd FileType gitcommit setl spell
+    autocmd FileType Makefile setl noexpandtab
 
 	" Python highlight over 84 char softlimit
 	autocmd FileType python let w:m2=matchadd('ErrorMsg', '\%>84v.\+', -1)
 
+    autocmd BufRead *.pl setl syn=prolog
+
+    " CLIPS hilighting
+    autocmd BufRead *.clp setl syn=art
     " Drools Hilighting
     autocmd BufRead *.drl setl syn=drools
     " Groovy hilighting in gradle buildfiles
@@ -85,4 +110,6 @@ augroup rcCmd
     " newLisp Hilighting
     autocmd BufRead *.lsp setl syn=newlisp
     autocmd BufRead *.clisp setl syn=lisp
+
+    autocmd BufRead *.gvpr setl syn=gvpr
 augroup END
