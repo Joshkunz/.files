@@ -2,9 +2,6 @@ CLICOLOR=1
 LSCOLORS=gxBxhxDxfxhxhxhxhxcxcx
 
 ##  PATH   ##
-# brew is corrupting my python bin path
-PATH="/usr/local/share/python:$PATH"
-
 # Some more manual path suff
 PATH="/usr/local/bin:/usr/local/sbin:$PATH"
 
@@ -14,10 +11,12 @@ PATH="$HOME/bin:$PATH"
 if [ `uname -s` = "Darwin" ]; then
     PATH="$PATH:/usr/local/share/npm/bin"
     PATH="$PATH:/Applications/Racket v5.3.5/bin"
+    PATH="$PATH:/usr/local/mercury-14.01/bin"
+    MANPATH="$MANPATH:/usr/local/mercury-14.01/man"
 fi
 
 ## DEFAULTS ##
-EDITOR=vim
+export EDITOR=vim
 LANG="en_US.UTF-8"
 PS1="[\e[0;36m\#\e[m] \T \e[1;31m\u\e[m:\w\n\$ "
 
