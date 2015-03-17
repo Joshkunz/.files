@@ -4,3 +4,13 @@
 
 [color]
     ui = auto
+
+[push]
+    default = current
+
+[alias]
+    pl = log --oneline --decorate --branches --graph
+    w = diff --minimal --color-words
+    # "Show Pull Diff"
+    pdiff = diff -b "@{1}"
+    pom = push origin master
