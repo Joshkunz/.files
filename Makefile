@@ -2,8 +2,8 @@
 PWD := $(shell pwd)
 
 dotfiles = ~/.bashrc ~/.hgrc ~/.todo ~/.gitconfig \
-		   ~/.vim ~/.vimrc ~/.weechat ~/.muttrc ~/.xmonad ~/.Xresources \
-		   ~/.imapfilter
+		   ~/.vim ~/.vimrc ~/.weechat ~/.xmonad ~/.Xresources \
+		   ~/.imapfilter ~/.config/beets/config.yaml
 
 link: $(dotfiles)
 
@@ -33,9 +33,6 @@ link: $(dotfiles)
 
 ~/.weechat: ./.weechat
 	ln -s $(PWD)/.weechat ~/.weechat
-
-~/.muttrc: ./.muttrc
-	ln -s $(PWD)/.muttrc ~/.muttrc
 
 ~/.xmonad: ./.xmonad
 	ln -s $(PWD)/.xmonad ~/.xmonad
