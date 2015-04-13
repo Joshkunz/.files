@@ -1,5 +1,5 @@
-plugins: inline duplicates
-directory: /media/music
+plugins: inline duplicates check
+directory: ~/music/library/
 import:
     write: yes
     move: yes
