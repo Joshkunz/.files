@@ -26,7 +26,7 @@ export MPC_FMT=" [%position%.] [[%artist% - ]%title%[ ([%track% ]on %album%)]|[%
 
 ##  ALIASES  ##
 
-alias ls='ls -GFh --color'
+alias ls='ls -GFh'
 alias la='ls -a'
 alias ll='ls -la'
 

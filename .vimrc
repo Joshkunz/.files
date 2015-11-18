@@ -1,16 +1,20 @@
 set nocompatible
+
+"Add Pathogen
+call pathogen#infect()
+
 syntax enable
 
 " Helper functions
 function! MakeBright()
     set background=light
-    colorscheme default
 endfunction
 
 function! MakeDark()
     set background=dark
-    colorscheme solarized
 endfunction
+
+colorscheme solarized
 
 function! TrimWhiteSpace()
     %s/\s\+$//e
@@ -40,13 +44,10 @@ set cursorline
 " set cursorbind
 set showmatch
 
-"Add Pathogen
-call pathogen#infect()
-
 "call MakeBright()
 call MakeDark()
 if has('gui_running')
-	set background=light
+    call MakeBright()
 endif
 
 "Color Column
@@ -69,7 +70,7 @@ set expandtab
 " nmap vj <C-w>j
 " nmap vk <C-w>k
 
-filetype plugin indent on
+filetype plugin on
 
 " For pandoc syn plugin
 let g:pandoc_no_folding = 1
@@ -148,4 +149,6 @@ augroup rcCmd
     autocmd BufRead *.clisp setl syn=lisp
 
     autocmd BufRead *.gvpr setl syn=gvpr
+
+    autocmd BufRead *.nc setl syn=tcl
 augroup END

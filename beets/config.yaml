@@ -1,5 +1,5 @@
 plugins: inline duplicates check
-directory: ~/music/library/
+directory: ~/music/library
 import:
     write: yes
     move: yes

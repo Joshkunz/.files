@@ -1,6 +1,6 @@
 [user]
 	name = Josh Kunz
-	email = joshkunz@me.com
+	email = josh@kunz.xyz 
 
 [color]
     ui = auto
@@ -9,8 +9,10 @@
     default = current
 
 [alias]
-    pl = log --oneline --decorate --branches --graph
+    pl = log --pretty=\"tformat:%C(auto)%h %>(10,trunc)%C(bold green)%an%Creset %s%C(auto)%d\" --graph
+    pl-old = log --oneline --decorate --branches --graph
     w = diff --minimal --color-words
     # "Show Pull Diff"
     pdiff = diff -b "@{1}"
     pom = push origin master
+    p = push

@@ -3,7 +3,8 @@ PWD := $(shell pwd)
 
 dotfiles = ~/.bashrc ~/.hgrc ~/.todo ~/.gitconfig \
 		   ~/.vim ~/.vimrc ~/.weechat ~/.xmonad ~/.Xresources \
-		   ~/.imapfilter ~/.config/beets/config.yaml
+		   ~/.imapfilter ~/.config/beets/config.yaml \
+		   ~/.config/fish/config.fish
 
 link: $(dotfiles)
 
@@ -38,13 +39,19 @@ link: $(dotfiles)
 	ln -s $(PWD)/.xmonad ~/.xmonad
 
 ~/.config/:
-	mkdir $@
+	mkdir -p $@
 
 ~/.config/beets/: ~/.config/
-	mkdir $@
+	mkdir -p $@
 
 ~/.config/beets/config.yaml: ./beets/config.yaml ~/.config/beets/
 	ln -s $(PWD)/beets/config.yaml $@
+
+~/.config/fish/: ~/.config/
+	mkdir -p $@
+
+~/.config/fish/config.fish: ./config.fish ~/.config/fish/
+	ln -s $(PWD)/config.fish $@
 
 unlink:
 	for file in $(dotfiles); do if test -L \$file; then rm ~/\$file; fi; done;
