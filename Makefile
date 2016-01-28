@@ -13,7 +13,9 @@ dotfiles-secret-local = $(addprefix $(dotfiles-secret-dir)/,$(dotfiles-secret))
 dotfiles-dir = $(PWD)/dotfiles
 dotfiles-local = $(shell find $(dotfiles-dir) -type f)
 dotfiles-linked = $(patsubst $(dotfiles-dir)/%,$(HOME)/%,$(dotfiles-local))
+ifndef NOSECRET
 dotfiles-linked += $(patsubst $(dotfiles-secret-dir)/%,$(HOME)/%,$(dotfiles-secret-local))
+endif
 
 GPG-ARGS = --cipher-algo aes256
 
@@ -22,7 +24,6 @@ quiet-gpg-enc = @printf '    [GPG] --encrypt %b\n' "$@";
 quiet-gpg-dec = @printf '    [GPG] --decrypt %b\n' "$<";
 
 default: link
-#	@for file in $(dotfiles-secret-local); do echo $$file; done
 
 link: $(dotfiles-linked)
 
