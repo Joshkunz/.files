@@ -46,7 +46,7 @@ set PATH ~/.cabal/bin $PATH
 set -x MANPATH ()
 
 if test (host-os) = "Darwin"
-    set PATH /Applications/Racket\ v6.1.1/bin $PATH
+    set PATH /Applications/Racket\ v6.3/bin $PATH
 end
 
 #### Aliases ####

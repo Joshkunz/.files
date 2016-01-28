@@ -1,64 +1,23 @@
-.PHONY: unlink kill link backup
+.PHONY: unlink kill link
 PWD := $(shell pwd)
+HOME := $(shell echo $$HOME)
 
-dotfiles = ~/.bashrc ~/.hgrc ~/.todo ~/.gitconfig \
-		   ~/.vim ~/.vimrc ~/.weechat ~/.xmonad ~/.Xresources \
-		   ~/.imapfilter ~/.config/beets/config.yaml \
-		   ~/.config/fish/config.fish
+scripts = scripts
 
-link: $(dotfiles)
+dotfiles-dir = $(PWD)/dotfiles
+dotfiles-local = $(shell find $(dotfiles-dir) -type f)
+dotfiles-linked = $(patsubst $(dotfiles-dir)/%,$(HOME)/%,$(dotfiles-local))
 
-~/.imapfilter: ./.imapfilter
-	ln -s $(PWD)/.imapfilter ~/.imapfilter
+all-config = $(dotfiles-linked)
 
-~/.bashrc: ./.bashrc
-	ln -s $(PWD)/.bashrc ~/.bashrc
+$(HOME)/%: $(dotfiles-dir)/%
+	@$(scripts)/install-dotfile "$<" "$@"
 
-~/.Xresources: ./.Xresources
-	ln -s $(PWD)/.Xresources ~/.Xresources
-
-~/.gitconfig: ./.gitconfig
-	ln -s $(PWD)/.gitconfig ~/.gitconfig
-
-~/.hgrc: ./.hgrc
-	ln -s $(PWD)/.hgrc ~/.hgrc
-
-~/.todo: ./.todo
-	ln -s $(PWD)/.todo ~/.todo
-
-~/.vim: ./.vim
-	ln -s $(PWD)/.vim ~/.vim
-
-~/.vimrc: ./.vimrc
-	ln -s $(PWD)/.vimrc ~/.vimrc
-
-~/.weechat: ./.weechat
-	ln -s $(PWD)/.weechat ~/.weechat
-
-~/.xmonad: ./.xmonad
-	ln -s $(PWD)/.xmonad ~/.xmonad
-
-~/.config/:
-	mkdir -p $@
-
-~/.config/beets/: ~/.config/
-	mkdir -p $@
-
-~/.config/beets/config.yaml: ./beets/config.yaml ~/.config/beets/
-	ln -s $(PWD)/beets/config.yaml $@
-
-~/.config/fish/: ~/.config/
-	mkdir -p $@
-
-~/.config/fish/config.fish: ./config.fish ~/.config/fish/
-	ln -s $(PWD)/config.fish $@
+link: $(dotfiles-linked)
+	@for file in $(dotfiles-linked); do echo $$file; done
 
 unlink:
-	for file in $(dotfiles); do if test -L \$file; then rm ~/\$file; fi; done;
+	for file in $(dotfiles-linked); do if test -L "$$file"; then rm "$$file"; fi; done;
 
 kill:
 	rm -rf $(dotfiles)
-
-backup:
-	if [ ! -d .backup ]; then mkdir .backup; fi
-	find ~ -maxdepth 1 -type f -or -type d -name '.*' | xargs -I % cp -rv % $(PWD)/.backup

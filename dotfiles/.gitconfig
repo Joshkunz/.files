@@ -1,3 +1,6 @@
+[core]
+    excludesfile = ~/.gitignore
+
 [user]
 	name = Josh Kunz
 	email = josh@kunz.xyz 

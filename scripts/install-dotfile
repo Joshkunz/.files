@@ -1,0 +1,57 @@
+#!/usr/bin/env bash
+
+FILE=$1
+IPATH=$2
+
+set -e 
+
+if [[ ! -f "$FILE" ]]; then
+    echo "File to link, '$FILE', does not exist." >2
+    exit 1
+fi
+
+function do_link () {
+    path=`dirname "$IPATH"`
+    if [[ ! -d "$path" ]]; then mkdir -p "$path"; fi
+    ln -s "$FILE" "$IPATH"
+}
+
+function force_link () {
+    if [[ -f "$IPATH" ]]; then rm "$IPATH"; do_link; fi
+}
+
+function yn () {
+    didread=0
+    until [[ $didread -eq 1 ]]; do
+        read -p "$1" CHK
+        case "$CHK" in
+            y|Y|yes|Yes) echo "y"; didread=1 ;;
+            n|N|no|No) echo "n"; didread=1 ;;
+            s|S|skip|Skip) echo "s"; didread=1 ;;
+            *) ;;
+        esac
+    done
+}
+
+function safe_cmp () {
+    set +e
+    cmp "$FILE" "$IPATH" &>/dev/null
+    echo $?
+    set -e
+}
+
+if test -f "$IPATH" -o -L "$IPATH"; then
+    if [[ `safe_cmp` -eq 0 ]]; then
+        force_link
+    else
+        case $( yn "'$FILE' and '$IPATH' differ. Install anyways? (Yes/No/Skip) " ) in
+            y) force_link ;;
+            n) echo "Aborting..."; exit 1 ;;
+            s) echo "Skipping..." ;;
+        esac
+    fi
+else
+    do_link
+fi
+
+exit 0
