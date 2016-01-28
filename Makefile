@@ -2,7 +2,7 @@
 PWD := $(shell pwd)
 HOME := $(shell echo $$HOME)
 
-dotfiles-secret = .ssh/config
+dotfiles-secret = .ssh/config .mpdscribble/mpdscribble.conf
 
 scripts = scripts
 
@@ -44,6 +44,7 @@ $(HOME)/%: $(dotfiles-secret-dir)/%
 
 $(dotfiles-secret-local): $(dotfiles-secret-file)
 	$(quiet-gpg-dec)gpg --decrypt "$<" | tar -xz
+	touch "$<" $@
 
 _tarfile = $(patsubst %.gpg,%,$(dotfiles-secret-file))
 secret: $(patsubst $(PWD)/%,%,$(dotfiles-secret-local))
