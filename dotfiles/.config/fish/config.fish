@@ -39,6 +39,7 @@ set PATH /usr/local/bin $PATH
 set PATH /usr/local/sbin $PATH
 set PATH ~/bin $PATH
 set PATH ~/.cabal/bin $PATH
+set PATH /usr/texlive/2015/bin/x86_64-linux/ $PATH
 
 # Add OPAM environment variables
 # opam config env | source
@@ -53,7 +54,7 @@ end
 
 alias less "less -R"
 
-alias ls "ls -GFh"
+alias ls "ls --color=auto -GFh"
 alias ll "ls -la"
 
 alias grep "grep --color"

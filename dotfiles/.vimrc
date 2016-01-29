@@ -37,7 +37,7 @@ set modeline
 set modelines=1
 
 set backup
-set backupdir=~/.backup/vim
+set backupdir=~/.cache/vim
 
 " Maybe
 set cursorline 
