@@ -52,8 +52,6 @@ end
 
 #### Aliases ####
 
-alias less "less -R"
-
 alias ls "ls --color=auto -GFh"
 alias ll "ls -la"
 
@@ -70,6 +68,8 @@ end
 
 #### Exports ####
 
+set -x LESS "-R"
+
 set -x EDITOR vim
 set -x PAGER less
 set -x LANG "en_US.UTF-8"
@@ -81,6 +81,12 @@ set -x PDF2KINDLE_FROM "joshkunz@me.com"
 set -x PDF2KINDLE_KINDLE "joshkunz@kindle.com"
 set -x PDF2KINDLE_SMTP_HOST "smtp.mail.me.com"
 set -x PDF2KINDLE_SMTP_PORT "587"
+
+# For hledger
+set -x LEDGER_FILE "$HOME/money/journal.ledger"
+
+# For ssh-agent
+set -x SSH_AUTH_SOCK "$XDG_RUNTIME_DIR/ssh-agent.socket"
 
 # OPAM autocomplete configuration
 source /Users/Joshkunz/.opam/opam-init/init.fish > /dev/null 2> /dev/null; or true
