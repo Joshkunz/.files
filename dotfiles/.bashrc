@@ -16,6 +16,9 @@ if [ `uname -s` = "Darwin" ]; then
 fi
 
 ## DEFAULTS ##
+
+export SSH_AUTH_SOCK="$XDG_RUNTIME_DIR/ssh-agent.socket"
+
 export EDITOR=vim
 
 LANG="en_US.UTF-8"
