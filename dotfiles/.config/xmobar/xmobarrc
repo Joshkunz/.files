@@ -1,0 +1,20 @@
+-- vim:set syn=haskell:
+
+Config { font = "xft:Droid Sans Mono:size=9"
+       , borderColor = "#444444"
+       , border = TopB
+       , bgColor = "#222222"
+       , fgColor = "#bbbbbb"
+       , alpha = 255
+       , iconRoot = "/home/josh/.config/xmobar/icons"
+       , position = Top
+       , lowerOnStart = True
+       , commands = [ Run Date "%A, %d-%m-%Y %I:%M" "date" 9
+                    , Run Volume "default" "Master" ["-t", "Vol: <volume>%"] 9
+                    , Run Battery ["-t", "Batt: <left>% / <timeleft> <acstatus>", "--", "-O", "<fc=orange>[chrg]</fc>", "-i", "<fc=green>[ok]</fc>", "-o", ""] 10
+                    , Run Wireless "wlan0" ["-t", "<fc=white><essid></fc> <qualityipat>", "--", "--quality-icon-pattern", "<icon=wifi/wifi_%%.xpm/>"] 25
+                    , Run UnsafeStdinReader
+                    , Run MPD ["-t", "<title> (<album>)", "--", "-P", "▶", "-S", "■", "-Z", "▌▌"] 9
+                    ]
+       , template = "%UnsafeStdinReader% <> %date% <> %default:Master% <> %battery% <> %wlan0wi% <> %mpd%"
+       }
