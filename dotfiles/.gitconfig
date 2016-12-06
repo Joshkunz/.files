@@ -9,10 +9,11 @@
     ui = auto
 
 [push]
-    default = current
+    default = upstream
 
 [alias]
-    pl = log --pretty=\"tformat:%C(auto)%h %>(10,trunc)%C(bold green)%an%Creset %s%C(auto)%d\" --graph
+    last = !git --no-pager log -n 1 --pretty=\"format:%h\"
+    pl = log --pretty=\"tformat:%C(auto)%h %>(10,trunc)%ar %>(10,trunc)%C(bold green)%an%Creset %s%C(auto)%d\" --graph
     pl-old = log --oneline --decorate --branches --graph
     w = diff --minimal --color-words
     # "Show Pull Diff"
