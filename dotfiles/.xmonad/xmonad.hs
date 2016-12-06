@@ -27,7 +27,7 @@ logPP xmobar = defaultPP {
                            ppCurrent = spaceFmt (xmobarColor "black" "grey")
                          , ppHidden = (\sp -> "/" ++ xmobarColor "orange" "" sp)
                          , ppHiddenNoWindows = \sp -> "/" ++ sp
-                         , ppUrgent = spaceFmt (xmobarColor "red" "")
+                         , ppUrgent = (\x -> "URG!") . xmobarStrip -- spaceFmt (xmobarColor "white" "red")
                          , ppOrder = \[ws,layout,title] -> [ws]
                          , ppOutput = hPutStrLn xmobar
                          }
@@ -50,4 +50,5 @@ main = do
       , unKey xF86XK_AudioLowerVolume $ spawn "amixer set Master 2dB-"
       , unKey xF86XK_AudioRaiseVolume $ spawn "amixer set Master 2dB+"
       , unKey xF86XK_ScreenSaver $ spawn "slock"
+      , ((mod1Mask, xK_b), sendMessage ToggleStruts)
       ]
