@@ -9,7 +9,7 @@ Config { font = "xft:Droid Sans Mono:size=9"
        , iconRoot = "/home/josh/.config/xmobar/icons"
        , position = Top
        , lowerOnStart = True
-       , commands = [ Run Date "%A, %d-%m-%Y %I:%M" "date" 9
+       , commands = [ Run Date "%A, %m-%d-%Y %I:%M" "date" 9
                     , Run Volume "default" "Master" ["-t", "Vol: <volume>%"] 9
                     , Run Battery ["-t", "Batt: <left>% / <timeleft> <acstatus>", "--", "-O", "<fc=orange>[chrg]</fc>", "-i", "<fc=green>[ok]</fc>", "-o", ""] 10
                     , Run Wireless "wlan0" ["-t", "<fc=white><essid></fc> <qualityipat>", "--", "--quality-icon-pattern", "<icon=wifi/wifi_%%.xpm/>"] 25
