@@ -3,3 +3,5 @@
 *.swi
 *.swo
 .virtualenv*
+*.pyc
+*.o
