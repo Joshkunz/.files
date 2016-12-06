@@ -33,6 +33,15 @@ function fish_prompt
         "><>"
 end 
 
+#### Key Bindings ####
+
+# auto sourced function that holds keybindings. Keybindings
+# must be set in this function to be used in the shell
+function fish_user_key_bindings
+    bind \cb backward-word
+    bind \cf forward-word
+end
+
 #### Path Updates ####
 
 set PATH /usr/local/bin $PATH

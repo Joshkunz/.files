@@ -15,6 +15,11 @@ if [ `uname -s` = "Darwin" ]; then
     MANPATH="$MANPATH:/usr/local/mercury-14.01/man"
 fi
 
+## Keyboard Rebinds ##
+
+bind \cf forward-word
+bind \cb backward-word
+
 ## DEFAULTS ##
 
 export SSH_AUTH_SOCK="$XDG_RUNTIME_DIR/ssh-agent.socket"
