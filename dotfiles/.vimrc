@@ -15,6 +15,7 @@ function! MakeDark()
 endfunction
 
 colorscheme solarized
+"colorscheme darkblue
 
 function! TrimWhiteSpace()
     %s/\s\+$//e
@@ -36,8 +37,8 @@ set ruler
 set modeline
 set modelines=1
 
-set backup
-set backupdir=~/.cache/vim
+"set backup
+"set backupdir=~/.cache/vim
 
 " Maybe
 set cursorline 
@@ -46,9 +47,6 @@ set showmatch
 
 "call MakeBright()
 call MakeDark()
-if has('gui_running')
-    call MakeBright()
-endif
 
 "Color Column
 set colorcolumn=80
@@ -62,9 +60,9 @@ set guifont=Menlo\ Regular:h15
 " Tabs
 set tabstop=4
 set shiftwidth=4
-set smartindent
+"set smartindent
 set autoindent
-set cindent
+"set cindent
 set expandtab
 
 " nmap vj <C-w>j

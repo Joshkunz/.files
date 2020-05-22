@@ -43,17 +43,24 @@ function fish_user_key_bindings
 end
 
 #### Path Updates ####
-
+# Grab out the bash-specific path modifications for rust.
+set -l _bash_path (bash -c 'source ~/.cargo/env; env' | rg '^PATH=' | tail -c+6 | tr ":" \n)
+set PATH $_bash_path $PATH
 set PATH /usr/local/bin $PATH
 set PATH /usr/local/sbin $PATH
 set PATH ~/bin $PATH
-set PATH ~/.cabal/bin $PATH
-set PATH /usr/texlive/2015/bin/x86_64-linux/ $PATH
+set PATH ~/.local/bin $PATH
+set PATH $HOME/opt/zig-linux-x86_64-0.4.0 $PATH
+# set PATH ~/.cabal/bin $PATH
+# set PATH /usr/texlive/2015/bin/x86_64-linux/ $PATH
+
+# Add Linuxbrew environment
+/home/linuxbrew/.linuxbrew/bin/brew shellenv | source
 
 # Add OPAM environment variables
 # opam config env | source
 
-set -x MANPATH ()
+#eval set -x MANPATH (manpath | tr ':' ' ')
 
 if test (host-os) = "Darwin"
     set PATH /Applications/Racket\ v6.3/bin $PATH
@@ -74,6 +81,8 @@ alias irkt "racket -il xrepl"
 if test (host-os) = "Darwin"
     alias vlc "vlcwrap"
 end
+
+alias blaze "bazel"
 
 #### Exports ####
 

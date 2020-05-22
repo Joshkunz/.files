@@ -20,3 +20,4 @@
     pdiff = diff -b "@{1}"
     pom = push origin master
     p = push
+    co = checkout
